@@ -5,7 +5,7 @@ title: Spatiotemporal Pattern Analysis & Research
 ---
 
 <div class="row">
-<div class="col-md-7 col-lg-7 lead" markdown="1">
+<div class="col-md-8 col-lg-8 lead" markdown="1">
 The Spatiotemporal Pattern Analysis & Research Laboratory (or **STAR lab**)
 focuses on the development and application of formal (i.e., statistical and
 computational) techniques to study the spatiotemporal patterns and dynamics
@@ -15,7 +15,7 @@ are](people), and [possible opportunities](opportunities).
 
 </div>
 
-<div class="col-md-5 col-lg-5" markdown="1">
+<div class="col-md-4 col-lg-4" markdown="1">
 <div> <img class="img-responsive" src="/resources/showroom/lighthouse.jpg" width="501"
 height="150" title="test"> </div>
 </div>
@@ -23,14 +23,14 @@ height="150" title="test"> </div>
 </div>
 
 <div class="row">
-<div class="col-md-7 col-lg-7" markdown="1">
+<div class="col-md-8 col-lg-8" markdown="1">
 ##News & Events
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{ post.url }}">{{ post.title }}</a><br />
   {% endfor %}
 </div>
 
-<div class="col-md-5 col-md-5" markdown="1">
+<div class="col-md-4 col-lg-4" markdown="1">
 ##Connect with us 
 {% include footer.html %}
 </div>
