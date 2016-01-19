@@ -64,6 +64,22 @@ body {
   }
 }
 
+@media all and (max-width: 1200px) { /* screen size until 1200px */
+    body {
+        font-size: 1.5em; /* 1.5x default size */
+    }
+}
+@media all and (max-width: 1000px) { /* screen size until 1000px */
+    body {
+        font-size: 1.2em; /* 1.2x default size */
+        }
+    }
+@media all and (max-width: 500px) { /* screen size until 500px */
+    body {
+        font-size: 0.8em; /* 0.8x default size */
+        }
+    }
+
 .content{
   box-sizing: content-box;
   padding: @ipad 0;
@@ -71,7 +87,7 @@ body {
   padding-top: 150px;
   color: black;
   //font-size: 17px;
-  font-size: 18px;
+  font-size: 1.3em;
   p {
     a {
       text-decoration: underline;
@@ -111,11 +127,12 @@ body {
   color: white;
   border: none;
   height: @bheight;
-  font-size: 18px;
+  //font-size: 18px;
+  font-size: 1.4em;
 }
 
 .navbar-header {
-  font-size: 18px;
+  font-size: 1.4em;
   a {
     color: white !important;
   }
@@ -207,7 +224,6 @@ margin-bottom: 0.5em;
   transition: all 1s;
 }
 
-
 ul.nav {
   li {
     a {
@@ -224,7 +240,10 @@ ul.nav {
     }
   }
 }
-
+.img-responsive{
+  max-width: 90%;
+  height: auto;
+}
 .pi {
   font-weight: 600;
   text-decoration: underline;

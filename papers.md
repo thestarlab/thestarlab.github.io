@@ -4,7 +4,7 @@ title: Papers
 nav: papers 
 ---
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="col-md-12" markdown="1">
 
 <!--<span style="text-decoration: underline">*In Peer-Reviewed
 Journals*</span> -->
@@ -78,7 +78,7 @@ Concurrency and Computation: Practice and Experience, 26(13), 2253-2265.
 
 </div>
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="col-md-12" markdown="1">
 # In Peer-Reviewed Book Chapters
 <!--<span style="text-decoration: underline">*In Peer-Reviewed Book
 Chapters*</span>-->
@@ -92,7 +92,7 @@ Chapters*</span>-->
     Edition, (edited by A.K.Hassan and H. Amin), CRC Press.
 </div>
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="col-md-12" markdown="1">
 #In Peer-Reviewed Conference Proceedings
 
 -   Huang, Q.,  **Cao**, G., Wang, C.: From where do tweets originate? - A
@@ -175,7 +175,7 @@ Kaohsiung, June 2014.
 
 </div>
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="col-md-12" markdown="1">
 
 #In Conference Proceedings (non peer-reviewed)
 -   **Cao**, G., Yu, Z., Yang, Z. (2002), Spatial Visualized Internet
@@ -184,7 +184,7 @@ Kaohsiung, June 2014.
     System*, Beijing, China, August 2002.
 </div>
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="col-md-12" markdown="1">
 
 #Thesis
 -   **Cao**, G.(2011): A Geostatistical Framework for Categorical Spatial

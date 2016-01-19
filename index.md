@@ -16,7 +16,7 @@ are](people), and [possible opportunities](opportunities).
 </div>
 
 <div class="col-md-5" markdown="1">
-<div> <img src="/resources/showroom/lighthouse.jpg" width="500"
+<div> <img class="img-responsive" src="/resources/showroom/lighthouse.jpg" width="501"
 height="150" title="test"> </div>
 </div>
 
