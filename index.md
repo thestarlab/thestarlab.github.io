@@ -30,9 +30,12 @@ height="150" title="test"> </div>
   {% endfor %}
 </div>
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-4 " markdown="1">
 ##Connect with us 
+<div class="connect">
 {% include footer.html %}
+</div>
+
 </div>
 
 </div>
