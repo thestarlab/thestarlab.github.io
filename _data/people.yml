@@ -1,0 +1,60 @@
+- name: Guofeng Cao
+  pi: yes
+  id: guofeng
+  mugshot: guofeng.png 
+  blurb: is a GIS professor at [Texas Tech University](http://www.ttu.edu),
+          also the director of the STAR lab. His research primarily focuses
+          on developing statistical methods and high performance computing
+          methods to characterize and model spatial and spatiotemporal
+          patterns. He is trained in earth sciences, computer science,
+          applied statistics, geographic information science and remote
+          sensing. He also has several years of experiences in software
+          industry before moving back to academia. Please see [his
+          page](/guofeng/) for more details.
+
+- name: Naizhuo Zhao
+  current: yes
+  id: naizhuo
+  mugshot: naizhuo.png
+  blurb: is a visiting research scientist. He finished his PhD from Texas
+          State University in 2014, now is working on using remote sensing
+          and GIS techniques to study the impact of human activity on urban
+          and natural systems. He also teaches remote sensing and GIS
+          courses in the Department of Geosciences at Texas Tech. 
+
+- name: Ying Liu 
+  current: yes
+  id: ying
+  mugshot: ying.png
+  blurb: is a PhD student in the Department of Geosciences at Texas Tech.
+          Her topic is to develop spatiotemporal methodologies to
+          understand the human and natural factors in environmental
+          pollution distribution, and evaluate the associated impact on
+          public health outcomes. 
+
+- name: Morgan Kraft 
+  current: yes
+  id: morgan
+  mugshot: morgan.jpg
+  blurb: is a Master student in the Department of Geosciences at Texas
+          Tech. His thesis is to investigate the bias and uncertainty
+          issues of location-based social media (e.g., Twitter) in
+          representing real-world social processes, and evaluate the
+          possible consequences. 
+
+- name: Ashley Morris
+  current: yes
+  id: ashley
+  mugshot: tt.jpg
+  blurb: is a Master student in the Department of Geosciences at Texas
+          Tech. Her topic is the emergence management in natural hazards.
+          She is particularly interested in using GIS to map and enhance
+          the community resilience to tornado hazards.
+
+- name: Feixiong Luo 
+  current: yes
+  id: feixiong
+  mugshot: tt.jpg
+  blurb: is a Master student in the Department of Geosciences at Texas
+          Tech. He is working on the development of new spatiotemporal
+          analytics for large-scale location-based social media data. 

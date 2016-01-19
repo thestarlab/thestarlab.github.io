@@ -1,0 +1,254 @@
+@import "/styles/colors.less";
+
+@import url(http://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700,700italic|PT+Serif:400,400italic,700,700italic);
+
+// Color palette
+//@high: rgb(74,205,176);
+//@medium: rgb(28,150,150);
+//@low: rgb(72,92,114);
+
+@high: @red;
+@medium: lighten(@red, 25%);
+@low: lighten(@red, 40%);
+
+.d3{
+  @import "/styles/d3.less";
+}
+
+code, pre {
+  font-family: "PT Mono";
+}
+
+html {
+  //background-image: url(/resources/bg/6.jpg);
+  //background-size: cover;
+  //background-position: center;
+  //background-attachment: fixed;
+  min-height: 100%;
+  height: 100%;
+}
+
+.thepage {
+  //background-color: white;//fadeout(@high, 8%);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1000;
+}
+
+body {
+  background: none;
+  font-family: "PT Sans";
+  min-height: 100%;
+  height: 100%;
+}
+
+// height of the bar
+@nalh: 50px;
+@naip: 23px;
+@bheight: calc(2 * @naip + @nalh);
+
+// internal padding
+@ipad: 40px;
+
+.home {
+  a {
+    text-decoration: underline;
+    color: black;
+    text-decoration-color: @high;
+    &:hover {
+      text-decoration-color: @high;
+    }
+  }
+}
+
+.content{
+  box-sizing: content-box;
+  padding: @ipad 0;
+  //padding-top: 200px;
+  padding-top: 150px;
+  color: black;
+  //font-size: 17px;
+  font-size: 18px;
+  p {
+    a {
+      text-decoration: underline;
+      color: @high;
+      text-decoration-color: @high;
+      &:hover {
+        text-decoration-color: @high;
+      }
+    }
+  }
+  h1, h2, h3, h4 {
+    //color: #fff !important;
+    color: @red !important;
+  }
+  h1 {
+    //font-weight: 600;
+    font-weight: normal;
+    font-size: 1.6em;
+    // margin-top: -1.5em;
+    margin-bottom: 0.5em;
+    color: @high !important;
+  }
+  h2{
+    color: @red !important;
+    font-size: 1.2em;
+  }
+  a {
+     color: @high !important;
+     &:hover {
+        color: @medium !important;
+     }
+  }
+}
+
+.navbar-default {
+  background: @red; //none;
+  color: white;
+  border: none;
+  height: @bheight;
+  font-size: 18px;
+}
+
+.navbar-header {
+  font-size: 18px;
+  a {
+    color: white !important;
+  }
+  font-family: "PT Serif";
+  line-height: @nalh;
+  padding: @naip 0;
+  //margin-left: -15px !important;
+  margin-left: -40px !important;
+  img {
+    height: 98px;
+    padding: 1px;
+    position: absolute;
+    top: 0 !important;
+    margin-left: -100px;
+  }
+  padding-left: 100px;
+}
+
+ul.nav {
+  background-color:@red;
+  li {
+    a {
+      text-transform: lowercase;
+      color: fadeout(white, 20%) !important;
+      &:hover {
+        color: white !important;
+      }
+    }
+    &.active {
+      a {
+        color: @high !important;
+      }
+    }
+  }
+}
+
+.row{
+margin-bottom: 0.5em;
+}
+
+.scrolled {
+  background-color: white;
+  .navbar-header {
+    a {
+      color: @medium !important;
+    }
+  }
+  ul.nav {
+  background-color: white;
+    li {
+      a {
+        color: fadeout(@medium, 40%) !important;
+        &:hover {
+          color: @medium !important;
+        }
+      }
+      &.active {
+        a {
+          color: @medium !important;
+        }
+      }
+    }
+  }
+}
+.unscrolled {
+  //background-color: @red;
+  .navbar-header {
+    a {
+      color: white !important;
+    }
+  }
+  ul.nav {
+    li {
+      a {
+        color: fadeout(white, 20%) !important;
+        &:hover {
+          color: white !important;
+        }
+      }
+      &.active {
+        a {
+          color: @red !important;
+        }
+      }
+    }
+  }
+}
+.scrolled, .unscrolled {
+  transition: all 1s;
+}
+
+
+ul.nav {
+  li {
+    a {
+      padding: @naip;
+      line-height: @nalh;
+    }
+    &.active {
+      a {
+        //background: @medium !important;
+        background-color: lighten(@red, 3%);
+        border-radius: 2px;
+        color: white;
+      }
+    }
+  }
+}
+
+.pi {
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: #bbb;
+}
+
+.student {
+  text-decoration: underline;
+  text-decoration-color: #bbb;
+}
+
+.text-muted {
+  color: #bbb;
+}
+
+.text-primary {
+  color: @high;
+}
+
+.publication {
+  margin-bottom: 2em;
+}
+
+.software-block, .resobj {
+  display: block;
+  height: 14em;
+}
