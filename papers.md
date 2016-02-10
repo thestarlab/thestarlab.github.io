@@ -93,7 +93,7 @@ Chapters*</span>-->
 </div>
 
 <div class="col-md-12" markdown="1">
-#In Peer-Reviewed Conference Proceedings
+# In Peer-Reviewed Conference Proceedings
 
 -   Huang, Q.,  **Cao**, G., Wang, C.: From where do tweets originate? - A
     GIS approach for user location inference, in Proceedings of the 7th ACM
@@ -177,7 +177,7 @@ Kaohsiung, June 2014.
 
 <div class="col-md-12" markdown="1">
 
-#In Conference Proceedings (non peer-reviewed)
+# In Conference Proceedings (non peer-reviewed)
 -   **Cao**, G., Yu, Z., Yang, Z. (2002), Spatial Visualized Internet
     Management System Based on GIS Technology. *Proceedings of
     International Conference on Computer Graphics & Spatial Information
@@ -186,7 +186,7 @@ Kaohsiung, June 2014.
 
 <div class="col-md-12" markdown="1">
 
-#Thesis
+# Thesis
 -   **Cao**, G.(2011): A Geostatistical Framework for Categorical Spatial
     Data Modeling, Ph.D. Dissertation. University of California, Santa
     Barbara, June 2011.
