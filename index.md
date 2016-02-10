@@ -26,7 +26,8 @@ height="150" title="test"> </div>
 <div class="col-md-8" markdown="1">
 ## News & Events
  {% for post in site.posts limit:5 %}
-  <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{ post.url }}">{{ post.title }}</a><br />
+  <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
+  <b>{{ post.date | date: '%B %d, %Y' }}</b>: [{{ post.title }}]({{site.url}}{{post.url}})<br />
   {% endfor %}
 </div>
 
