@@ -26,13 +26,13 @@ Office: 211 Holden Hall
 
 <div class="col-md-8" markdown="1">
 
-##Positions
+## Positions
 - Assistant Professor, [Department of Geosciences](http://www.geosciences.ttu.edu)
 - Director, [Spatiotemporal Pattern Analysis & Research
 Laboratory](http://www.spatial.ttu.edu) 
 
 
-##Education
+## Education
 
 - Ph.D., Geography, [UC Santa Barbara](http://www.ucsb.edu), 2011
 - M.A., Applied Statistics, [UC Santa Barbara](http://www.ucsb.edu), 2009
