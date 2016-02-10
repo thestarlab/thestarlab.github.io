@@ -27,10 +27,9 @@ Office: 211 Holden Hall
 <div class="col-md-8" markdown="1">
 
 ## Positions
-- Assistant Professor, [Department of Geosciences](http://www.geosciences.ttu.edu)
-- Director, [Spatiotemporal Pattern Analysis & Research
-Laboratory](http://www.spatial.ttu.edu) 
-
+- Assistant Professor, [Department of Geosciences](http://www.geosciences.ttu.edu) 
+- Director, [Spatiotemporal Pattern Analysis & Research Laboratory]({{site.url}}/)
+- Team Leader, [SuperMap Software](http://www.supermap.com/en), 2002-2006
 
 ## Education
 
@@ -39,7 +38,6 @@ Laboratory](http://www.spatial.ttu.edu)
 - M.S., Cartography and GIS, [Chinese Academy of Sciences](http://english.igsnrr.cas.cn/), 2004
 - B.S., Earth Sciences (minor in Computer Science), [Zhejiang University](http://www.zju.edu.cn/english/), 2001
 
-
 ## Research
 
 - [Research]({{site.url}}/research/)
@@ -47,8 +45,8 @@ Laboratory](http://www.spatial.ttu.edu)
 
 ## Teaching
 
-- GIST 4302/5302: Spatial Analysis and Modeling (undergraduate/graduate)
-- GEOG 3340: Human Geography Research (undergraduate) 
+- GIST 4302/5302: [Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302) (undergraduate/graduate)
+- GEOG 3340: [Human Geography Research](http://www.gis.ttu.edu/geog3340) (undergraduate) 
 - GEOG 5330: Applied Spatial and Spatiotemporal Analysis (graduate)
 
 

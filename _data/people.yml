@@ -14,6 +14,7 @@
 
 - name: Naizhuo Zhao
   current: yes
+  role: postdoc
   id: naizhuo
   mugshot: naizhuo.png
   blurb: is a visiting research scientist. He finished his PhD from Texas
@@ -23,6 +24,7 @@
           courses in the Department of Geosciences at Texas Tech. 
 
 - name: Ying Liu 
+  role: student
   current: yes
   id: ying
   mugshot: ying.png
@@ -33,6 +35,7 @@
           public health outcomes. 
 
 - name: Morgan Kraft 
+  role: student
   current: yes
   id: morgan
   mugshot: morgan.jpg
@@ -43,6 +46,7 @@
           possible consequences. 
 
 - name: Ashley Morris
+  role: student
   current: yes
   id: ashley
   mugshot: ashley.jpg
@@ -52,9 +56,20 @@
           the community resilience to tornado hazards.
 
 - name: Feixiong Luo 
+  role: student
   current: yes
   id: feixiong
   mugshot: tt.jpg
   blurb: is a Master student in the Department of Geosciences at Texas
           Tech. He is working on the development of new spatiotemporal
           analytics for large-scale location-based social media data. 
+
+- name: Bo Zhong 
+  role: visiting
+  current: yes
+  id: zhong
+  mugshot: tt.jpg
+  blurb: is a research scientist at the [Institute of Remote Sensing and
+          Digital Earth](http://english.ceode.cas.cn/), Chinese Academy of
+          Science. He is currently visiting at STAR lab.  
+
