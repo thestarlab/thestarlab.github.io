@@ -8,19 +8,19 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">
-        <img src="/resources/logo.png" alt="" /><strong>STAR</strong>lab
+      <a class="navbar-brand" href="{{site.url}}">
+	      <img src="{{site.url}}/resources/logo.png" alt="" /><strong>STAR</strong>lab
       </a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li class="people {%if page.nav == 'people' %}active{% endif %}"><a href="/people/">People</a></li>
-        <li class="research {%if page.nav == 'research' %}active{% endif %}"><a href="/research/">Research</a></li>
-        <li class="papers {%if page.nav == 'papers' %}active{% endif %}"><a href="/papers/">Papers</a></li>
-        <li class="software {%if page.nav == 'software' %}active{% endif %}"><a href="/software/">Software</a></li>
-        <li class="opportunities {%if page.nav == 'opportunities' %}active{% endif %}"><a href="/opportunities/">Opportunities</a></li>
+        <li class="people {%if page.nav == 'people' %}active{% endif %}"><a href="{{site.url}}/people/">People</a></li>
+        <li class="research {%if page.nav == 'research' %}active{% endif %}"><a href="{{site.url}}/research/">Research</a></li>
+        <li class="papers {%if page.nav == 'papers' %}active{% endif %}"><a href="{{site.url}}/papers/">Papers</a></li>
+        <li class="software {%if page.nav == 'software' %}active{% endif %}"><a href="{{site.url}}/software/">Software</a></li>
+        <li class="opportunities {%if page.nav == 'opportunities' %}active{% endif %}"><a href="{{site.url}}/opportunities/">Opportunities</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

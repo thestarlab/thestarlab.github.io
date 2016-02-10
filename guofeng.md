@@ -5,7 +5,7 @@ nav: people
 ---
  
 <div class="col-md-4 text-center" markdown="1">
-<img src="/mugshots/guofeng.png" class="mugshot" style="width: 200px;
+<img src="{{site.url}}/mugshots/guofeng.png" class="mugshot" style="width: 200px;
 height: 200px"/>
 
 Guofeng Cao
@@ -19,7 +19,7 @@ Office: 211 Holden Hall
 
 ---
 
- [Curriculum Vitae](/resources/files/cv.pdf)
+ [Curriculum Vitae]({{site.url}}/resources/files/cv.pdf)
 
 
 </div>
@@ -42,8 +42,8 @@ Laboratory](http://www.spatial.ttu.edu)
 
 ## Research
 
-- [Research](/research/)
-- [Papers](/papers/)
+- [Research]({{site.url}}/research/)
+- [Papers]({{site.url}}/papers/)
 
 ##Teaching
 

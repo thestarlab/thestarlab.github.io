@@ -16,7 +16,7 @@ are](people), and [possible opportunities](opportunities).
 </div>
 
 <div class="col-md-4" markdown="1">
-<div> <img class="img-responsive" src="/resources/showroom/lighthouse.jpg" width="501"
+<div> <img class="img-responsive" src="{{site.url}}/resources/showroom/lighthouse.jpg" width="501"
 height="150" title="test"> </div>
 </div>
 
@@ -48,11 +48,11 @@ height="150" title="test"> </div>
 <div class="col-md-2"> </div>
 <div class="col-md-5">
  <div class="showroom">
-<div> <img class="img-responsive" src="/resources/showroom/twitter.png"
+<div> <img class="img-responsive" src="{{site.url}}/resources/showroom/twitter.png"
 width="600" height="400"> </div>
-<div><img class="img-responsive" src="/resources/showroom/trees.png"
+<div><img class="img-responsive" src="{{site.url}}/resources/showroom/trees.png"
 width="600" height="400"></div>
-<div><img class="img-responsive" src="/resources/showroom/geography.png"
+<div><img class="img-responsive" src="{{site.url}}/resources/showroom/geography.png"
 width="600" height="400"></div>
   </div>
 </div>
