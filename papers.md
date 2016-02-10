@@ -9,7 +9,7 @@ nav: papers
 <!--<span style="text-decoration: underline">*In Peer-Reviewed
 Journals*</span> -->
 
-#In Peer-Reviewed Journals
+# In Peer-Reviewed Journals
 
 -  **Cao**, G., Wang, S., Hwang, M., Padmanabhan, A., Zhang, Z., and
    Soltani, K. (2015). A Scalable Framework for Spatiotemporal Analysis of

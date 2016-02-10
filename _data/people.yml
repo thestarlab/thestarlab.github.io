@@ -1,6 +1,7 @@
 - name: Guofeng Cao
   pi: yes
   id: guofeng
+  page: yes
   mugshot: guofeng.png 
   blurb: is a GIS professor at [Texas Tech University](http://www.ttu.edu),
           also the director of the STAR lab. His research primarily focuses
@@ -9,8 +10,7 @@
           patterns. He is trained in earth sciences, computer science,
           applied statistics, geographic information science and remote
           sensing. He also has several years of experiences in software
-          industry before moving back to academia. Please see [his
-          page](/guofeng/) for more details.
+          industry before moving back to academia. 
 
 - name: Naizhuo Zhao
   current: yes

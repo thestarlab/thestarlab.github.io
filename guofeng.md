@@ -45,7 +45,7 @@ Laboratory](http://www.spatial.ttu.edu)
 - [Research]({{site.url}}/research/)
 - [Papers]({{site.url}}/papers/)
 
-##Teaching
+## Teaching
 
 - GIST 4302/5302: Spatial Analysis and Modeling (undergraduate/graduate)
 - GEOG 3340: Human Geography Research (undergraduate) 
