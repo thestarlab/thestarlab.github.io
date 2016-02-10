@@ -24,14 +24,16 @@ height="150" title="test"> </div>
 
 <div class="row">
 <div class="col-md-8" markdown="1">
-##News & Events
+News & Events
+--------
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{ post.url }}">{{ post.title }}</a><br />
   {% endfor %}
 </div>
 
 <div class="col-md-4 " markdown="1">
-##Connect with us 
+Connect with us 
+--------
 <div class="connect">
 {% include footer.html %}
 </div>
