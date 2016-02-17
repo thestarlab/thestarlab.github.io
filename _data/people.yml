@@ -1,5 +1,5 @@
 - name: Guofeng Cao
-  pi: yes
+  role: pi
   id: guofeng
   page: yes
   mugshot: guofeng.png 

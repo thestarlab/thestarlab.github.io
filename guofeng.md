@@ -40,7 +40,7 @@ Office: 211 Holden Hall
 
 ## Research
 
-- [Research]({{site.url}}/research/)
+- [Projects]({{site.url}}/research/)
 - [Papers]({{site.url}}/papers/)
 
 ## Teaching
