@@ -21,7 +21,7 @@ International Journal of Applied Earth Observation and Geoinformation
 
 - Luo, F.<sup>+</sup>, **Cao**, G<sup>*</sup>, Mulligan, K. and Li, X.  (2016): Explore
   Spatiotemporal and Demographic Characteristics of Human Mobility via
-Twitter: A Case Study of Chicago.  \emph{Applied Geography} (accepted). 
+Twitter: A Case Study of Chicago. Applied Geography (accepted). 
 
 -  **Cao**, G., Wang, S., Hwang, M., Padmanabhan, A., Zhang, Z., and
    Soltani, K. (2016). A Scalable Framework for Spatiotemporal Analysis of
