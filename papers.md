@@ -11,8 +11,29 @@ Journals*</span> -->
 
 # In Peer-Reviewed Journals
 
+- Liu, Y.$^{\dagger}$, Delahunty, T., Zhao, N. and {\bf Cao}, G. (2016):
+  These lit areas are undeveloped: China's urban extents and urban
+development patterns from thresholded nighttime light imagery.
+International Journal of Applied Earth Observation and Geoinformation
+(accepted).
+
+-  Luo, F.$^{\dagger}$, {\bf Cao}, G.$^{\ast}$, Mulligan, K. and Li, X.
+   (2016): Explore Spatiotemporal and Demographic Characteristics of Human
+Mobility via Twitter: A Case Study of Chicago.  \emph{Applied Geography}
+(accepted). 
+
+-  Liu, Y., Delahunty, T., Zhao, N. and **Cao**, G. (2016):
+   These lit areas are undeveloped: China's urban extents and urban
+development patterns from thresholded nighttime light imagery.
+International Journal of Applied Earth Observation and Geoinformation
+(accepted).
+
+- Luo, F., **Cao**, G, Mulligan, K. and Li, X.  (2016): Explore
+  Spatiotemporal and Demographic Characteristics of Human Mobility via
+Twitter: A Case Study of Chicago.  \emph{Applied Geography} (accepted). 
+
 -  **Cao**, G., Wang, S., Hwang, M., Padmanabhan, A., Zhang, Z., and
-   Soltani, K. (2015). A Scalable Framework for Spatiotemporal Analysis of
+   Soltani, K. (2016). A Scalable Framework for Spatiotemporal Analysis of
 Location-based Social Media Data. Computers, Enviroment and Urban System,
 51, 70-82.
 
