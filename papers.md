@@ -10,8 +10,7 @@ nav: papers
 Journals*</span> -->
 
 # In Peer-Reviewed Journals
-(* indicates corresponding authors and + indicates the graduate advisee
-authors)
+(* indicates corresponding authors and + indicates the graduate authors)
 
 -  Liu, Y.<sup>+</sup>, Delahunty, T., Zhao, N. and **Cao**, G. (2016):
    These lit areas are undeveloped: China's urban extents and urban
