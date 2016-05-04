@@ -9,7 +9,7 @@ nav: research
 # Research Interests
 
 Our research is characterized by an interdisciplinary perspective on
-*spatial data science* that is driven by advances of quantitative geography
+**spatial data science** that is driven by advances of quantitative geography
 (e.g., geographic information science), earth observations (e.g., remote
 sensing) and computational science. Specifically, we are interested in
 development of statistical, machine learning and computational
