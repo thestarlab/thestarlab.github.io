@@ -7,16 +7,21 @@ nav: research
 <!--<div class="col-xs-12 col-md-12 resobj" markdown="1"> -->
 
 # Research Interests
+
 Our research is characterized by an interdisciplinary perspective on
-geographic information science and remote sensing. Specifically, we are
-interested in development of statistical and computational methodologies
-for (1) spatiotemporal pattern modeling and analysis in geographic
-phenomena and processes, (2) integrating heterogeneous spatial and
-spatiotemporal data, (3) modeling spatiotemporal uncertainty, and the
-uncertainty propagation in analysis and models, (4) data and computation
-intensive spatiotemporal analysis and modeling, and (5) geospatial-enabled
-cyberinfrastructure or cyberGIS, and domain applications in environmental
-sciences, public health and social sciences. 
+**spatial data science** that is driven by advances of quantitative geography
+(e.g., geographic information science), earth observations (e.g., remote
+sensing) and computational science. Specifically, we are interested in
+development of statistical, machine learning and computational
+methodologies for (1) spatiotemporal pattern modeling and analysis in
+geographic phenomena and processes, (2) integrating heterogeneous spatial
+and spatiotemporal data (e.g., downscaling and upscaling), (3) modeling
+spatiotemporal uncertainty, and the uncertainty propagation in analysis and
+models, (4) data and computation intensive spatiotemporal analysis and
+modeling, and (5) geospatial-enabled cyberinfrastructure or cyberGIS, and
+domain applications in environmental sciences, public health and social
+sciences.
+
 <!--</div> -->
 
 <!--<div class="col-xs-12 col-md-12 resobj" markdown="1"> -->
