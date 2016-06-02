@@ -17,11 +17,12 @@
   role: postdoc
   id: naizhuo
   mugshot: naizhuo.png
-  blurb: is a visiting research scientist. He finished his PhD from Texas
-          State University in 2014, now is working on using remote sensing
-          and GIS techniques to study the impact of human activity on urban
-          and natural systems. He also teaches remote sensing and GIS
-          courses in the Department of Geosciences at Texas Tech. 
+  blurb: is a postdoctoral research associate. He finished his PhD in
+          Geography from Texas State University in 2014, now is working on
+          using remote sensing and GIS techniques to study the impact of
+          human activity on urban and natural systems.  He also teaches
+          remote sensing and GIS courses in the Department of Geosciences
+          at Texas Tech. 
 
 - name: Ying Liu 
   role: student
@@ -29,10 +30,10 @@
   id: ying
   mugshot: ying.png
   blurb: is a PhD student in the Department of Geosciences at Texas Tech.
-          Her topic is to develop spatiotemporal methodologies to
-          understand the human and natural factors in environmental
-          pollution distribution, and evaluate the associated impact on
-          public health outcomes. 
+          With a focus on environmental remote sensing, her topic is to
+          develop spatiotemporal methodologies to understand the human and
+          natural factors in environmental pollution distribution, and
+          evaluate the associated impact on public health outcomes. 
 
 - name: Morgan Kraft 
   role: student
