@@ -28,9 +28,9 @@ also included in the toolbox.
 <div class="pure-u-1 copy" markdown="1">
 # Selected Datasets 
 - [Here](https://github.com/thestarlab/data) is a times seres of datasets
-  (ESRI shapefile) of Chinese urban boundaries for the years of 2004, 2006,
-  2008 and 2010, derived from nighttime remote sensing imagery constrained
-  to city development statistics. 
+  (in ESRI shapefile) of Chinese urban boundaries for the years of 2004,
+2006, 2008 and 2010, derived from nighttime remote sensing imagery
+constrained to city development statistics. 
 
 </div>
 
