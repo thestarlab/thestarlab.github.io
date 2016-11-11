@@ -10,10 +10,10 @@ nav: papers
 Journals*</span> -->
 
 # In Peer-Reviewed Journals
-(* indicates corresponding authors and + indicates the graduate authors)
+(* indicates corresponding authors and + indicates the advisee authors)
 
 
-- Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J., and **Cao**, G (2017): Effects of synoptic weather on ground-level PM 2.5 concentrations in the United States. Atmospheric Environment. Applied Geography (accepted). 
+- Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J., and **Cao**, G (2017): Effects of synoptic weather on ground-level PM2.5 concentrations in the United States. Atmospheric Environment (accepted). 
 
 
 -  Liu, Y.<sup>+</sup>, Delahunty, T., Zhao, N. and **Cao**, G. (2016):
