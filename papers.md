@@ -14,7 +14,7 @@ Journals*</span> -->
 
 - Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
   Effects of synoptic weather on Influenza Infection Incidences: A
-Retrospective Study Utilizing Digital Disease Surveillance. International
+retrospective study utilizing digital disease surveillance. International
 Journal of Biometeorology (accepted). 
 
 -  Zhao, N., Liu, Y.<sup>+</sup>, and **Cao**, G,  Samson, E. and Zhang, J. (2017):
