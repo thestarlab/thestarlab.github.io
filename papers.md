@@ -12,8 +12,18 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
+- Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
+  Effects of synoptic weather on Influenza Infection Incidences: A
+Retrospective Study Utilizing Digital Disease Surveillance. International
+Journal of Biometeorology (accepted). 
 
-- Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J., and **Cao**, G (2017): Effects of synoptic weather on ground-level PM2.5 concentrations in the United States. Atmospheric Environment (accepted). 
+-  Zhao, N., Liu, Y.<sup>+</sup>, and **Cao**, G,  Samson, E. and Zhang, J. (2017):
+  Forecasting China's GDP at the pixel level using nighttime lights time
+series and population images. GIScience and Remote Sensing (in press). 
+
+- Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J., and **Cao**, G (2017): Effects
+  of synoptic weather on ground-level PM2.5 concentrations in the United
+States. Atmospheric Environment (148) 297-305. 
 
 
 -  Liu, Y.<sup>+</sup>, Delahunty, T., Zhao, N. and **Cao**, G. (2016):
@@ -21,8 +31,10 @@ Journals*</span> -->
 development patterns from thresholded nighttime light imagery.
 International Journal of Applied Earth Observation and Geoinformation (50) 39-50.
 
-- Luo, F.<sup>+</sup>, **Cao**, G<sup>*</sup>, Mulligan, K. and Li, X.  (2016): Explore Spatiotemporal and Demographic Characteristics of Human Mobility via
-Twitter: A Case Study of Chicago. Applied Geography (70) 11-25. 
+- Luo, F.<sup>+</sup>, **Cao**, G<sup>*</sup>, Mulligan, K. and Li, X.
+  (2016): Explore Spatiotemporal and Demographic Characteristics of Human
+Mobility via Twitter: A Case Study of Chicago. Applied Geography (70)
+11-25. 
 
 -  **Cao**, G., Wang, S., Hwang, M., Padmanabhan, A., Zhang, Z., and
    Soltani, K. (2016). A Scalable Framework for Spatiotemporal Analysis of
