@@ -37,11 +37,6 @@ constrained to city development statistics.
 the continental United States during 2001-2012; each of the dataset
 represents the average concentration of three sliding years.  
 
-- [Here](https://github.com/thestarlab/data) is a times series of gridded
-  datasets (1km spatial resolution, in ESRI Img) of PM2.5 concentration of
-the continental United States during 2001-2012; each of the dataset
-represents the average concentration of three sliding years.  
-
 - [Here](https://github.com/thestarlab/data) contains a times series of
   gridded datasets (1km spatial resolution, in ESRI Img) of the projected
 GDP of China between 2014-2020. The datasets were generated using night
