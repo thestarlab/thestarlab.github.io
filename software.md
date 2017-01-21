@@ -27,15 +27,31 @@ also included in the toolbox.
 
 <div class="pure-u-1 copy" markdown="1">
 # Selected Datasets 
-- [Here](https://github.com/thestarlab/data) is a times seres of datasets
+- [Here](https://github.com/thestarlab/data) is a times series of datasets
   (in ESRI shapefile) of Chinese urban boundaries for the years of 2004,
 2006, 2008 and 2010, derived from nighttime remote sensing imagery
 constrained to city development statistics. 
 
-- [Here](https://github.com/thestarlab/data) is a times seres of gridded
+- [Here](https://github.com/thestarlab/data) is a times series of gridded
   datasets (1km spatial resolution, in ESRI Img) of PM2.5 concentration of
 the continental United States during 2001-2012; each of the dataset
 represents the average concentration of three sliding years.  
+
+- [Here](https://github.com/thestarlab/data) is a times series of gridded
+  datasets (1km spatial resolution, in ESRI Img) of PM2.5 concentration of
+the continental United States during 2001-2012; each of the dataset
+represents the average concentration of three sliding years.  
+
+- [Here](https://github.com/thestarlab/data) contains a times series of
+  gridded datasets (1km spatial resolution, in ESRI Img) of the projected
+GDP of China between 2014-2020. The datasets were generated using night
+time remote sensing imagery and economic survey data.
+
+- [Here](https://github.com/thestarlab/data) is a dataset (csv file) of the
+  estimated weekly influenza incidences (ILI+) across 79 major cities of
+the United States between January 2005 and December of 2014. The ILI+ was
+produced by a combination of Google Flu Trends and CDC's virologic
+surveillance reports. 
 
 </div>
 
