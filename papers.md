@@ -12,14 +12,18 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
+- Fisher-Phelps, M., **Cao**, G<sup>*</sup>, Wilson, R. and Kingston, T. (2017): Protecting bias: Across time and ecology, open-source bat locality data are heavily biased by distance to protected area. Ecological Informatics (accepted). 
+
+- Zhao, N., Hsu, F., **Cao**, G<sup>*</sup> and Samson, E. (2017), Improving accuracy of economic estimations with VIIRS DNB image products. International Journal of Remote Sensing (accepted)
+
 - Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
   Effects of synoptic weather on Influenza Infection Incidences: A
 retrospective study utilizing digital disease surveillance. International
-Journal of Biometeorology (accepted). 
+Journal of Biometeorology (in press). 
 
 -  Zhao, N., Liu, Y.<sup>+</sup>, and **Cao**, G,  Samson, E. and Zhang, J. (2017):
   Forecasting China's GDP at the pixel level using nighttime lights time
-series and population images. GIScience and Remote Sensing (in press). 
+series and population images. GIScience and Remote Sensing (54) 407-425. 
 
 - Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J., and **Cao**, G (2017): Effects
   of synoptic weather on ground-level PM2.5 concentrations in the United
