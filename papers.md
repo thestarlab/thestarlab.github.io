@@ -12,9 +12,9 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Fisher-Phelps, M., **Cao**, G<sup>*</sup>, Wilson, R. and Kingston, T. (2017): Protecting bias: Across time and ecology, open-source bat locality data are heavily biased by distance to protected area. Ecological Informatics (accepted). 
+- Fisher-Phelps, M.<sup>+</sup>, **Cao**, G, Wilson, R. and Kingston, T. (2017): Protecting bias: Across time and ecology, open-source bat locality data are heavily biased by distance to protected area. Ecological Informatics (accepted). 
 
-- Zhao, N., Hsu, F., **Cao**, G<sup>*</sup> and Samson, E. (2017), Improving accuracy of economic estimations with VIIRS DNB image products. International Journal of Remote Sensing (accepted)
+- Zhao, N., Hsu, F., **Cao**, G and Samson, E. (2017), Improving accuracy of economic estimations with VIIRS DNB image products. International Journal of Remote Sensing (accepted)
 
 - Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
   Effects of synoptic weather on Influenza Infection Incidences: A
