@@ -14,7 +14,7 @@ Journals*</span> -->
 
 - Zhao, N. and **Cao**, G.<sup>*</sup> (2017), Quantifying and visualizing language diversity of Hong Kong using Twitter. Environment and Planning A. (in press)
 
-- Mehdipoor, H., Vanos, H., Zurita-Milla, R. and  **Cao**, G. (2017) Emerging technologies for biometeorology. International Journal of Biometeorology. (in press)
+- Mehdipoor, H., Vanos, H., Zurita-Milla, R. and  **Cao**, G. (2017) Short communication: Emerging technologies for biometeorology. International Journal of Biometeorology. (in press)
 
 - Fisher-Phelps, M.<sup>+</sup>, **Cao**, G, Wilson, R. and Kingston, T. (2017): Protecting bias: Across time and ecology, open-source bat locality data are heavily biased by distance to protected area. Ecological Informatics (accepted). 
 
