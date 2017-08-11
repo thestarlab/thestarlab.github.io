@@ -28,7 +28,15 @@ sciences.
 
 # Current Projects 
 
++ CH Foundation: Mapping Local Community Preparedness to Tornado Hazards in Lubbock, Texas (2018-2019).
+
++ CH Foundation: Immersive VR Experience for Teaching, Learning, and Researching  (2018-2019).
+
++ Texas Tech: Story Maps of Humanitarian Projects around the World (2017-2018)
+
 + USAID: Mappers Without Borders (2015-2020).
+
+# Finished Projects 
 
 + USDA: Development of a GIS Model to Project and Map Future Water Availability (2015-2016).
 
