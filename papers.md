@@ -12,15 +12,33 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Hardin, A., Liu, Y. <sup>+</sup>, **Cao**, G. and Vanos, J. (2017) Urban heat island intensity and spatial variability by synoptic weather type in the northeast US. Urban Climate (in press)
+- Liu, Y.<sup>+</sup>, **Cao**, G.<sup>*</sup>, Zhao, N., Mulligan, K. and Ye, X. (2018), Improve Ground-Level PM2.5 Concentration Mapping Using A Random Forests-Based Geostatistical Approach. Environmental Pollution. (accepted)
 
-- Zhao, N. and **Cao**, G.<sup>*</sup> (2017), Quantifying and visualizing language diversity of Hong Kong using Twitter. Environment and Planning A. (in press)
+- Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2017), Mapping spatiotemporal patterns of events using social media: a case study of influenza trends. International Journal of Geographical Information Science. (accepted)
 
-- Mehdipoor, H., Vanos, J., Zurita-Milla, R. and  **Cao**, G. (2017) Short communication: Emerging technologies for biometeorology. International Journal of Biometeorology. (in press)
+- Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J. and **Cao**, G. (2017), Visualizing
+  changes in nationally averaged PM2.5 concentrations by an alluvial diagram.
+  Environment and Planning A (*Featured graphics*). (in press)
 
-- Fisher-Phelps, M.<sup>+</sup>, **Cao**, G, Wilson, R. and Kingston, T. (2017): Protecting bias: Across time and ecology, open-source bat locality data are heavily biased by distance to protected area. Ecological Informatics (accepted). 
+- Hardin, A., Liu, Y. <sup>+</sup>, **Cao**, G. and Vanos, J. (2017) Urban heat
+  island intensity and spatial variability by synoptic weather type in the
+  northeast US. Urban Climate (in press)
 
-- Zhao, N., Hsu, F., **Cao**, G and Samson, E. (2017), Improving accuracy of economic estimations with VIIRS DNB image products. International Journal of Remote Sensing (accepted)
+- Zhao, N. and **Cao**, G.<sup>*</sup> (2017), Quantifying and visualizing
+  language diversity of Hong Kong using Twitter. Environment and Planning A (*Featured graphics*). (in press)
+
+- Mehdipoor, H., Vanos, J., Zurita-Milla, R. and  **Cao**, G. (2017) Short
+  communication: Emerging technologies for biometeorology. International
+  Journal of Biometeorology. (in press)
+
+- Fisher-Phelps, M.<sup>+</sup>, **Cao**, G, Wilson, R. and Kingston, T.
+  (2017): Protecting bias: Across time and ecology, open-source bat locality
+  data are heavily biased by distance to protected area. Ecological Informatics
+  (accepted). 
+
+- Zhao, N., Hsu, F., **Cao**, G and Samson, E. (2017), Improving accuracy of
+  economic estimations with VIIRS DNB image products. International Journal of
+  Remote Sensing (accepted)
 
 - Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
   Effects of synoptic weather on Influenza Infection Incidences: A
@@ -130,15 +148,19 @@ Chapters*</span>-->
 <div class="col-md-12" markdown="1">
 # In Peer-Reviewed Conference Proceedings
 
--   Huang, Q.,  **Cao**, G., Wang, C.: From where do tweets originate? - A
-    GIS approach for user location inference, in Proceedings of the 7th ACM
-SIGSPATIAL International Workshop on Location-Based Social Network, Dallas,
-November 2014.
+- Yang, Z., Nguyen, L.H., Cao, G. and Jin, F.: Harvey flooding rescue in social
+  media, in Proceedings of the IEEE Big Data conference 2017, Boston, December
+  2017.
 
--  Luo, F., **Cao**, G., Li, X.: An interactive approach for deriving
-   geometric network models in 3D indoor environments, in Proceedings of
-the 6th ACM SIGSPATIAL International Workshop on Indoor Spatial Awareness,
-Dallas, November 2014.
+-  Huang, Q.,  **Cao**, G., Wang, C.: From where do tweets originate? - A GIS
+   approach for user location inference, in Proceedings of the 7th ACM
+   SIGSPATIAL International Workshop on Location-Based Social Network, Dallas,
+   November 2014.
+
+-  Luo, F., **Cao**, G., Li, X.: An interactive approach for deriving geometric
+   network models in 3D indoor environments, in Proceedings of the 6th ACM
+   SIGSPATIAL International Workshop on Indoor Spatial Awareness, Dallas,
+   November 2014.
 
 -  Zhang, Z., Wang, S., **Cao**, G., Padmanabhan, A., Wu, K.: A scalable 
 approach to extracting mobility patterns from social media data, in
