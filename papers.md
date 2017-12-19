@@ -24,7 +24,7 @@ Journals*</span> -->
   island intensity and spatial variability by synoptic weather type in the
   northeast US. Urban Climate (in press)
 
-- Zhao, N. and **Cao**, G.<sup>*</sup> (2017), Quantifying and visualizing
+- Zhao, N. and **Cao**, G. <sup>* </sup> (2017), Quantifying and visualizing
   language diversity of Hong Kong using Twitter. Environment and Planning A (*Featured graphics*). (in press)
 
 - Mehdipoor, H., Vanos, J., Zurita-Milla, R. and  **Cao**, G. (2017) Short
