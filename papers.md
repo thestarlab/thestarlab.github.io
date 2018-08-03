@@ -15,10 +15,9 @@ Journals*</span> -->
 - Liu, Y.<sup>+</sup>, **Cao**, G.<sup>*</sup>, Zhao, N., Mulligan, K. and
   Ye, X. (2018), Improve Ground-Level PM2.5 Concentration Mapping Using A
   Random Forests-Based Geostatistical Approach. Environmental Pollution,
-  235, 272-282. 
-  
-  [The generated PM2.5 concentration dataset in this paper (1km resolution
-  for the United States 2000-2015) is available.](https://github.com/thestarlab/pm25-gridded-time-series)
+  235, 272-282. [The generated PM2.5 concentration dataset in this paper
+  (1km resolution for the United States 2000-2015) is
+  available.](https://github.com/thestarlab/pm25-gridded-time-series)
 
 - Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2018),
   Mapping spatiotemporal patterns of events using social media: a case
@@ -54,19 +53,15 @@ Journals*</span> -->
 - Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
   Effects of synoptic weather on Influenza Infection Incidences: A
   retrospective study utilizing digital disease surveillance. International
-  Journal of Biometeorology, 62(1), 69-84.
-
-  [The generated ILI+ dataset in this this (a combination of Google Flu
-  Trends and CDC reports) is
+  Journal of Biometeorology, 62(1), 69-84. [The generated ILI+ dataset in
+  this this (a combination of Google Flu Trends and CDC reports) is
   available.](https://github.com/thestarlab/ILIplus)
 
 -  Zhao, N., Liu, Y.<sup>+</sup>, and **Cao**, G,  Samson, E. and Zhang, J.
    (2017): Forecasting China's GDP at the pixel level using nighttime
    lights time series and population images. GIScience and Remote Sensing
-   (54) 407-425. 
-
-  [The generated GDP projections of China at pixel levels) is
-  available.](https://github.com/thestarlab/ChinaGDP)
+   (54) 407-425. [The generated GDP projections of China at pixel levels)
+	is available.](https://github.com/thestarlab/ChinaGDP)
 
 - Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J., and **Cao**, G (2017): Effects
   of synoptic weather on ground-level PM2.5 concentrations in the United
@@ -76,10 +71,8 @@ Journals*</span> -->
    These lit areas are undeveloped: China's urban extents and urban
    development patterns from thresholded nighttime light imagery.
    International Journal of Applied Earth Observation and Geoinformation
-   (50) 39-50.
-
-  [The generated dataset of boundaries of Chinese urban areas) is
-  available.](https://github.com/thestarlab/ChinaUrbanBoundary)
+   (50) 39-50. [The generated dataset of boundaries of Chinese urban areas)
+	is available.](https://github.com/thestarlab/ChinaUrbanBoundary)
 
 - Luo, F.<sup>+</sup>, **Cao**, G<sup>*</sup>, Mulligan, K. and Li, X.
   (2016): Explore Spatiotemporal and Demographic Characteristics of Human
@@ -98,9 +91,9 @@ Concurrency and Computation: Practice and Experience, 26(13), 2253-2265.
 
 -   **Cao**, G., Yoo, E.H., Wang, S. (2014): A Statistical Framework of
     Data Fusion for Spatial Prediction of Categorical Variables. Stochastic
-    Environmental Research and Risk Assessment, 28: 1785-1799.
-
-  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
+    Environmental Research and Risk Assessment, 28: 1785-1799. [A Matlab
+    toolbox associated with this paper is
+    available](https://github.com/surfcao/scm)
 
 -   Leetaru, K.,Wang, S., **Cao**, G., Padmananabhan, A., Shook, E. (2013):
     Mapping The Global Twitter HeartBeat: The Geography of Twitter.
@@ -120,29 +113,26 @@ Concurrency and Computation: Practice and Experience, 26(13), 2253-2265.
     ‘Comments on ‘Combining spatial transition probabilities for stochastic
     simulation of categorical fields’ with communications on some issues
     related to Markov chain geostatistics’, International Journal of
-    Geographical Information Science, 26(10), pp.1741-1750.
-
-  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
+    Geographical Information Science, 26(10), pp.1741-1750. [A Matlab
+    toolbox associated with this paper is
+    available](https://github.com/surfcao/scm)
 
 -   **Cao**, G., Kyriakidis, P.C. and Goodchild, M.F. (2011): A
     geostatistical framework for categorical spatial data modeling, The
-    SIGSPATIAL Special, 2011, 3(3), pp.4-9.
-
-  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
+    SIGSPATIAL Special, 2011, 3(3), pp.4-9. [A Matlab toolbox associated
+    with this paper is available](https://github.com/surfcao/scm)
 
 -   **Cao**, G., Kyriakidis, P.C. and Goodchild, M.F. (2011): A multinomial
     logistic mixed model for prediction of categorical spatial data,
     International Journal of Geographical Information Science, 25(12),
-    pp.2071-2086.
-
-  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
+    pp.2071-2086. [A Matlab toolbox associated with this paper is
+    available](https://github.com/surfcao/scm)
 
 -   **Cao**, G., Kyriakidis, P.C. and Goodchild, M.F. (2011): Combining
     spatial transition probabilities for stochastic simulation of
     categorical fields, International Journal of Geographical Information
-    Science, 25(11), pp.1773-1791.
-
-  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
+    Science, 25(11), pp.1773-1791. [A Matlab toolbox associated with this
+    paper is available](https://github.com/surfcao/scm)
 
 -   Li, K., Zhong, E., Zeng, Z. and **Cao**, G.(2006): An optimal path
     algorithm based on hierarchically structured topographical network,
