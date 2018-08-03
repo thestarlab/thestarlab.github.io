@@ -17,8 +17,8 @@ Journals*</span> -->
   Random Forests-Based Geostatistical Approach. Environmental Pollution,
   235, 272-282. 
   
-  [The PM2.5 concentration dataset generated in this paper (a time series
-  of 1km resolution for the United States during 2000-2015) is also
+  [The generated PM2.5 concentration dataset in this paper (times series of
+  1km resolution for the United States during 2000-2015) is
   available.](https://github.com/thestarlab/pm25-gridded-time-series)
 
 - Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2017), Mapping spatiotemporal patterns of events using social media: a case study of influenza trends. International Journal of Geographical Information Science. (accepted)
