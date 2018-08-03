@@ -17,7 +17,7 @@ Journals*</span> -->
   Random Forests-Based Geostatistical Approach. Environmental Pollution,
   235, 272-282. 
   
-  [The generated PM2.5 concentration dataset in this paper ( 1km resolution
+  [The generated PM2.5 concentration dataset in this paper (1km resolution
   for the United States 2000-2015) is available.](https://github.com/thestarlab/pm25-gridded-time-series)
 
 - Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2018),
