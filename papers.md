@@ -18,7 +18,7 @@ Journals*</span> -->
   235, 272-282. 
   
   [The PM2.5 concentration dataset generated in this paper (a time series
-  of 1km resolution for the United States) is also
+  of 1km resolution for the United States during 2000-2015) is also
   available.](https://github.com/thestarlab/pm25-gridded-time-series)
 
 - Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2017), Mapping spatiotemporal patterns of events using social media: a case study of influenza trends. International Journal of Geographical Information Science. (accepted)
