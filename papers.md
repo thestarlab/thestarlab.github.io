@@ -17,54 +17,69 @@ Journals*</span> -->
   Random Forests-Based Geostatistical Approach. Environmental Pollution,
   235, 272-282. 
   
-  [The generated PM2.5 concentration dataset in this paper (times series of
-  1km resolution for the United States during 2000-2015) is
-  available.](https://github.com/thestarlab/pm25-gridded-time-series)
+  [The generated PM2.5 concentration dataset in this paper ( 1km resolution
+  for the United States 2000-2015) is available.](https://github.com/thestarlab/pm25-gridded-time-series)
 
-- Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2017), Mapping spatiotemporal patterns of events using social media: a case study of influenza trends. International Journal of Geographical Information Science. (accepted)
+- Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2018),
+  Mapping spatiotemporal patterns of events using social media: a case
+  study of influenza trends. International Journal of Geographical
+  Information Science, 32(3), 425-449.
 
-- Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J. and **Cao**, G. (2017), Visualizing
-  changes in nationally averaged PM2.5 concentrations by an alluvial diagram.
-  Environment and Planning A (*Featured graphics*). (in press)
+- Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J. and **Cao**, G. (2018),
+  Visualizing changes in nationally averaged PM2.5 concentrations by an
+  alluvial diagram. Environment and Planning A (*Featured graphics*),
+  50(2), 259-261.
 
-- Hardin, A., Liu, Y. <sup>+</sup>, **Cao**, G. and Vanos, J. (2017) Urban heat
-  island intensity and spatial variability by synoptic weather type in the
-  northeast US. Urban Climate (in press)
+- Hardin, A., Liu, Y. <sup>+</sup>, **Cao**, G. and Vanos, J. (2018) Urban
+  heat island intensity and spatial variability by synoptic weather type in
+  the northeast US. Urban Climate, 24, 747-762.
 
 - Zhao, N. and **Cao**, G.<sup>* </sup> (2017), Quantifying and visualizing
-  language diversity of Hong Kong using Twitter. Environment and Planning A (*Featured graphics*). (in press)
+  language diversity of Hong Kong using Twitter. Environment and Planning A
+  (*Featured graphics*), 49 (12), 2698-2701.
 
 - Mehdipoor, H., Vanos, J., Zurita-Milla, R. and  **Cao**, G. (2017) Short
   communication: Emerging technologies for biometeorology. International
-  Journal of Biometeorology. (in press)
+  Journal of Biometeorology, 61(1), 81-88.
 
 - Fisher-Phelps, M.<sup>+</sup>, **Cao**, G, Wilson, R. and Kingston, T.
-  (2017): Protecting bias: Across time and ecology, open-source bat locality
-  data are heavily biased by distance to protected area. Ecological Informatics
-  (accepted). 
+  (2017): Protecting bias: Across time and ecology, open-source bat
+  locality data are heavily biased by distance to protected area.
+  Ecological Informatics, 40, 22-34. 
 
-- Zhao, N., Hsu, F., **Cao**, G and Samson, E. (2017), Improving accuracy of
-  economic estimations with VIIRS DNB image products. International Journal of
-  Remote Sensing (accepted)
+- Zhao, N., Hsu, F., **Cao**, G and Samson, E. (2017), Improving accuracy
+  of economic estimations with VIIRS DNB image products. International
+  Journal of Remote Sensing, 38(21), 5899-5918.
 
 - Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
   Effects of synoptic weather on Influenza Infection Incidences: A
-retrospective study utilizing digital disease surveillance. International
-Journal of Biometeorology (in press). 
+  retrospective study utilizing digital disease surveillance. International
+  Journal of Biometeorology, 62(1), 69-84.
 
--  Zhao, N., Liu, Y.<sup>+</sup>, and **Cao**, G,  Samson, E. and Zhang, J. (2017):
-  Forecasting China's GDP at the pixel level using nighttime lights time
-series and population images. GIScience and Remote Sensing (54) 407-425. 
+  [The generated ILI+ dataset in this this (a combination of Google Flu
+  Trends and CDC reports) is
+  available.](https://github.com/thestarlab/ILIplus)
+
+-  Zhao, N., Liu, Y.<sup>+</sup>, and **Cao**, G,  Samson, E. and Zhang, J.
+   (2017): Forecasting China's GDP at the pixel level using nighttime
+   lights time series and population images. GIScience and Remote Sensing
+   (54) 407-425. 
+
+  [The generated GDP projections of China at pixel levels) is
+  available.](https://github.com/thestarlab/ChinaGDP)
 
 - Liu, Y.<sup>+</sup>, Zhao, N., Vanos, J., and **Cao**, G (2017): Effects
   of synoptic weather on ground-level PM2.5 concentrations in the United
-States. Atmospheric Environment (148) 297-305. 
-
+  States. Atmospheric Environment (148) 297-305. 
 
 -  Liu, Y.<sup>+</sup>, Delahunty, T., Zhao, N. and **Cao**, G. (2016):
    These lit areas are undeveloped: China's urban extents and urban
-development patterns from thresholded nighttime light imagery.
-International Journal of Applied Earth Observation and Geoinformation (50) 39-50.
+   development patterns from thresholded nighttime light imagery.
+   International Journal of Applied Earth Observation and Geoinformation
+   (50) 39-50.
+
+  [The generated dataset of boundaries of Chinese urban areas) is
+  available.](https://github.com/thestarlab/ChinaUrbanBoundary)
 
 - Luo, F.<sup>+</sup>, **Cao**, G<sup>*</sup>, Mulligan, K. and Li, X.
   (2016): Explore Spatiotemporal and Demographic Characteristics of Human
