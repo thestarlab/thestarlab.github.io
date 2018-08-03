@@ -12,7 +12,12 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Liu, Y.<sup>+</sup>, **Cao**, G.<sup>*</sup>, Zhao, N., Mulligan, K. and Ye, X. (2018), Improve Ground-Level PM2.5 Concentration Mapping Using A Random Forests-Based Geostatistical Approach. Environmental Pollution. (accepted)
+- Liu, Y.<sup>+</sup>, **Cao**, G.<sup>*</sup>, Zhao, N., Mulligan, K. and
+  Ye, X. (2018), Improve Ground-Level PM2.5 Concentration Mapping Using A
+  Random Forests-Based Geostatistical Approach. Environmental Pollution,
+  235, 272-282. 
+
+  [The PM2.5 concentration dataset, generated in this paper is available](https://github.com/thestarlab/pm25-gridded-time-series)
 
 - Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2017), Mapping spatiotemporal patterns of events using social media: a case study of influenza trends. International Journal of Geographical Information Science. (accepted)
 
