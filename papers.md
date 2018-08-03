@@ -97,8 +97,10 @@ for Interactive Analysis of Massive Location-based Social Media.
 Concurrency and Computation: Practice and Experience, 26(13), 2253-2265. 
 
 -   **Cao**, G., Yoo, E.H., Wang, S. (2014): A Statistical Framework of
-    Data Fusion for Spatial Prediction of Categorical Variables.
-    Stochastic Environmental Research and Risk Assessment, 28: 1785-1799.
+    Data Fusion for Spatial Prediction of Categorical Variables. Stochastic
+    Environmental Research and Risk Assessment, 28: 1785-1799.
+
+  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
 
 -   Leetaru, K.,Wang, S., **Cao**, G., Padmananabhan, A., Shook, E. (2013):
     Mapping The Global Twitter HeartBeat: The Geography of Twitter.
@@ -115,24 +117,32 @@ Concurrency and Computation: Practice and Experience, 26(13), 2253-2265.
     Digital Earth, 6(1), pp.28-50
 
 -   **Cao**, G., Kyriakidis, P.C., and Goodchild, M.F. (2012): Response to
-    ‘Comments on ‘Combining spatial transition probabilities for
-    stochastic simulation of categorical fields’ with communications on
-    some issues related to Markov chain geostatistics’, International
-    Journal of Geographical Information Science, 26(10), pp.1741-1750.
+    ‘Comments on ‘Combining spatial transition probabilities for stochastic
+    simulation of categorical fields’ with communications on some issues
+    related to Markov chain geostatistics’, International Journal of
+    Geographical Information Science, 26(10), pp.1741-1750.
+
+  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
 
 -   **Cao**, G., Kyriakidis, P.C. and Goodchild, M.F. (2011): A
     geostatistical framework for categorical spatial data modeling, The
     SIGSPATIAL Special, 2011, 3(3), pp.4-9.
+
+  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
 
 -   **Cao**, G., Kyriakidis, P.C. and Goodchild, M.F. (2011): A multinomial
     logistic mixed model for prediction of categorical spatial data,
     International Journal of Geographical Information Science, 25(12),
     pp.2071-2086.
 
+  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
+
 -   **Cao**, G., Kyriakidis, P.C. and Goodchild, M.F. (2011): Combining
     spatial transition probabilities for stochastic simulation of
-    categorical fields, International Journal of Geographical
-    Information Science, 25(11), pp.1773-1791.
+    categorical fields, International Journal of Geographical Information
+    Science, 25(11), pp.1773-1791.
+
+  [A Matlab toolbox associated with this paper is available](https://github.com/surfcao/scm)
 
 -   Li, K., Zhong, E., Zeng, Z. and **Cao**, G.(2006): An optimal path
     algorithm based on hierarchically structured topographical network,
