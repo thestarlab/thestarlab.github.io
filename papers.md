@@ -15,7 +15,11 @@ Journals*</span> -->
 - Liu, Y.<sup>+</sup>, **Cao**, G.<sup>*</sup>, Zhao, N., Mulligan, K. and
   Ye, X. (2018), Improve Ground-Level PM2.5 Concentration Mapping Using A
   Random Forests-Based Geostatistical Approach. Environmental Pollution,
-  235, 272-282. **Note:** Please also see [the PM2.5 concentration dataset, generated in this paper](https://github.com/thestarlab/pm25-gridded-time-series)
+  235, 272-282. 
+  
+  [The PM2.5 concentration dataset generated in this paper (a time series
+  of 1km resolution for the United States) is also
+  available.](https://github.com/thestarlab/pm25-gridded-time-series)
 
 - Gao, Y., Wang, S., Padmanabhana, A., Yin, J. and **Cao**, G. (2017), Mapping spatiotemporal patterns of events using social media: a case study of influenza trends. International Journal of Geographical Information Science. (accepted)
 
