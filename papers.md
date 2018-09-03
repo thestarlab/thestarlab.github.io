@@ -12,10 +12,30 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
+- Zhao, N.<sup>+</sup>, Zhang, W., Liu, Y.<sup>+</sup>, Samson, E., Chen,
+  Y. and **Cao**, G.<sup>*</sup>: Improving nighttime lights imagery with
+  location-based social media data. IEEE Transactions on Geosciences and
+  Remote Sensing (accepted). 
+
+- Zhao, N.<sup>+</sup>, Liu, Y. <sup>+</sup>, J. Vanos, and **Cao**,
+  G.: Day-of-week and seasonal patterns of PM2.5 concentrations
+  over the United States: Time-series analyses using the Prophet procedure.
+  Atmospheric Environment (accepted).
+
+- Herdt, A., Brown, R., Scott-Fleming, S., **Cao**, G., MacDonald, M.,
+  Henderson, D. and Vanos, J. (2018): Outdoor Thermal Comfort during
+  Anomalous Heat at the 2015 Pan American Soccer Games in Toronto, Canada.
+  Atmosphere, 9(8), 321. 
+
+- Zhao, N.<sup>+</sup>, **Cao**, G., W. Zhang <sup>+</sup> and E. L. Samson
+  (2018): Tweets or nighttime lights: comparison for preeminence in
+  estimating socioeconomic factors. ISPRS Journal of Photogrammetry and
+  Remote Sensing, 146, 1-10. 
+
 - Liu, Y.<sup>+</sup>, **Cao**, G.<sup>*</sup>, Zhao, N., Mulligan, K. and
   Ye, X. (2018), Improve Ground-Level PM2.5 Concentration Mapping Using A
   Random Forests-Based Geostatistical Approach. Environmental Pollution,
-  235, 272-282. [A PM2.5 concentration dataset derived in this paper (1km
+  235, 272-282. **Note:** [A PM2.5 concentration dataset derived in this paper (1km
   resolution for the United States 2000-2015) is
   available.](https://github.com/thestarlab/pm25-gridded-time-series)
 
@@ -53,14 +73,14 @@ Journals*</span> -->
 - Zhao, N., **Cao**, G<sup>*</sup>, Vanos, J. and Vecellio, D. (2017):
   Effects of synoptic weather on Influenza Infection Incidences: A
   retrospective study utilizing digital disease surveillance. International
-  Journal of Biometeorology, 62(1), 69-84. [An ILI+ dataset derived in this
-  paper (a combination of Google Flu Trends and CDC reports) is
+  Journal of Biometeorology, 62(1), 69-84. **Note**: [An ILI+ dataset derived
+  in this paper (a combination of Google Flu Trends and CDC reports) is
   available.](https://github.com/thestarlab/ILIplus)
 
 -  Zhao, N., Liu, Y.<sup>+</sup>, and **Cao**, G,  Samson, E. and Zhang, J.
    (2017): Forecasting China's GDP at the pixel level using nighttime
    lights time series and population images. GIScience and Remote Sensing
-   (54) 407-425. [A dataset of GDP projection of China at pixel levels
+   (54) 407-425. **Note**: [A dataset of GDP projection of China at pixel levels
 	derived in this paper is
 	available.](https://github.com/thestarlab/ChinaGDP)
 
@@ -72,19 +92,24 @@ Journals*</span> -->
    These lit areas are undeveloped: China's urban extents and urban
    development patterns from thresholded nighttime light imagery.
    International Journal of Applied Earth Observation and Geoinformation
-   (50) 39-50. [A dataset of boundaries of Chinese urban areas derived in
-	this paper) is
+   (50) 39-50. **Note:** [A dataset of boundaries of Chinese urban areas
+	derived in this paper) is
 	available.](https://github.com/thestarlab/ChinaUrbanBoundary)
 
 - Luo, F.<sup>+</sup>, **Cao**, G<sup>*</sup>, Mulligan, K. and Li, X.
   (2016): Explore Spatiotemporal and Demographic Characteristics of Human
-Mobility via Twitter: A Case Study of Chicago. Applied Geography (70)
-11-25. 
+  Mobility via Twitter: A Case Study of Chicago. Applied Geography (70)
+11-25. **Note: This article is one of the top 25 most cited articles in
+*Applied Geography* since 2015.** Accessed: 08/31/2018
+
 
 -  **Cao**, G., Wang, S., Hwang, M., Padmanabhan, A., Zhang, Z., and
    Soltani, K. (2016). A Scalable Framework for Spatiotemporal Analysis of
-Location-based Social Media Data. Computers, Enviroment and Urban System,
-51, 70-82.
+   Location-based Social Media Data. Computers, Environment and Urban
+   System, 51, 70-82. **Note: This article is one of the top 25 most cited
+   articles in *Computers, Environment and Urban System* since 2015.**
+   Accessed: 08/31/2018
+
 
 -   Padmanabhan, A., Wang, S., **Cao**, G., Hwang, M., Zhang, Z., Gao, Y.,
     Soltani, K., and Liu, Y.Y. (2014): FluMapper: A CyberGIS Application
