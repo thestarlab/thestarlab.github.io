@@ -1,7 +1,7 @@
 ---
 layout: page
 nav: home
-title: Spatiotemporal Pattern Analysis & Research
+title: Spatiotemporal Pattern Analysis & Research Laboratory
 ---
 
 <div class="row">
@@ -9,10 +9,11 @@ title: Spatiotemporal Pattern Analysis & Research
 
 Spatiotemporal Pattern Analysis & Research Laboratory (or **STAR lab**)
 focuses on the developments and applications of formal (i.e., statistical
-and computational) and technical methods to study the spatiotemporal
-patterns and dynamics in natural, social and technical systems. Please read
-more about our work ([research](research) and [papers](papers)), [who we
-are](people), and [possible opportunities](opportunities).  
+and computational) and technical methodologies to study complex
+spatiotemporal patterns and dynamics in natural, social and technical
+systems. Please read more about our work ([research](research) and
+[papers](papers)), [who we are](people), and [possible
+opportunities](opportunities).  
 
 </div>
 
