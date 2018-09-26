@@ -3,7 +3,7 @@ layout: page
 title: People
 nav: people
 ---
-
+<!--
 <div class="row">
 
 {% for p in site.data.people %}{% if p.role == 'pi' %}
@@ -11,13 +11,13 @@ nav: people
 {% endfor %}
 
 </div>
+-->
 
 # Current Members
 
 <div class="row">
 
-{% for p in site.data.people %}{% if p.role != 'pi' and p.status ==
-'current' %}
+{% for p in site.data.people %}{% if p.status == 'current' %}
 {% include people.html %}{% endif %}
 {% endfor %}
 
