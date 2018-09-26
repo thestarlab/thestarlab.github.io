@@ -2,7 +2,7 @@
   role: pi
   id: guofeng
   page: yes
-  mugshot: guofeng.png 
+  mugshot: guofeng.jpg 
   blurb: is a GIS professor at [Texas Tech University](http://www.ttu.edu),
           also the director of the STAR lab. His research primarily focuses
           on developing statistical methods and high performance computing
@@ -16,7 +16,7 @@
   role: student
   current: yes
   id: congliang
-  mugshot: congliang.png
+  mugshot: congliang.jpg
   blurb: is a PhD student in the Department of Geosciences at Texas Tech.
           With a focus on geostatistics and remote sensing, his topic is to
           develop machine learning methods to understand the spatiotemporal dynamics in massive remote sensing imagery. 
@@ -25,21 +25,21 @@
   role: student
   current: yes
   id: jimin
-  mugshot: tt.png
+  mugshot: tt.jpg
   blurb: is a PhD student in the Department of Geosciences at Texas Tech. Her dissertation is to investigate the uncertainty and changes of land surface (e.g., land use and land cover) on atmospheric dynamics across multiple spatiotemporal scales .
 
 - name: Chan-mi Lee
   role: student
   current: yes
   id: chanmi
-  mugshot: chanmi.png
+  mugshot: chanmi.jpg
   blurb: is a Master student in Geography group of the Department of Geosciences at Texas Tech. She works on innovative applications of GIS and geospatial technologies in public health.
 
 - name: Naizhuo Zhao
   current: no
   role: postdoc
   id: naizhuo
-  mugshot: naizhuo.png
+  mugshot: naizhuo.jpg
   blurb: is a postdoctoral research associate. He finished his PhD in
           Geography from Texas State University in 2014, now is working on
           using remote sensing and GIS techniques to study the impact of
@@ -51,7 +51,7 @@
   role: student
   current: no
   id: ying
-  mugshot: ying.png
+  mugshot: ying.jpg
   blurb: is a PhD student in the Department of Geosciences at Texas Tech.
           With a focus on environmental remote sensing, her topic is to
           develop spatiotemporal methodologies to understand the human and
