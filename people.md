@@ -16,16 +16,23 @@ nav: people
 
 <div class="row">
 
-{% for p in site.data.people %}{% if p.role != 'pi' and p.role != 'visiting' %}
+{% for p in site.data.people %}{% if p.role != 'pi' and p.current == 'yes' %}
 {% include people.html %}{% endif %}
 {% endfor %}
+
 </div>
+
+# Alumni
+
+{% for p in site.data.people %}{% if p.role != 'pi' and p.current != 'yes' %}
+{% include people.html %}{% endif %}
+{% endfor %}
 
 # Visiting Scholars
 
 <div class="row">
 
-{% for p in site.data.people %}{% if p.role =='visiting' %}
+{% for p in site.data.people %}{% if p.role =='visiting' and p.current == 'yes' %}
 {% include people.html %}{% endif %}
 {% endfor %}
 

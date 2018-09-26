@@ -17,7 +17,7 @@ are](people), and [possible opportunities](opportunities).
 
 <div class="col-md-4" markdown="1">
 <div> <img class="img-responsive" src="{{site.url}}/resources/showroom/lighthouse.jpg" width="501"
-height="150" title="test"> </div>
+height="150" title="Palo Duro Lighthouse"> </div>
 </div>
 
 </div>

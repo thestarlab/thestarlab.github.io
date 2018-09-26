@@ -12,8 +12,31 @@
           sensing. He also has several years of experiences in software
           industry before moving back to academia. 
 
-- name: Naizhuo Zhao
+- name: Congliang Zhou
+  role: student
   current: yes
+  id: congliang
+  mugshot: congliang.png
+  blurb: is a PhD student in the Department of Geosciences at Texas Tech.
+          With a focus on geostatistics and remote sensing, his topic is to
+          develop machine learning methods to understand the spatiotemporal dynamics in massive remote sensing imagery. 
+
+- name: Jimin Chun
+  role: student
+  current: yes
+  id: jimin
+  mugshot: tt.png
+  blurb: is a PhD student in the Department of Geosciences at Texas Tech. Her dissertation is to investigate the uncertainty and changes of land surface (e.g., land use and land cover) on atmospheric dynamics across multiple spatiotemporal scales .
+
+- name: Chan-mi Lee
+  role: student
+  current: yes
+  id: chanmi
+  mugshot: chanmi.png
+  blurb: is a Master student in Geography group of the Department of Geosciences at Texas Tech. She works on innovative applications of GIS and geospatial technologies in public health.
+
+- name: Naizhuo Zhao
+  current: no
   role: postdoc
   id: naizhuo
   mugshot: naizhuo.png
@@ -26,7 +49,7 @@
 
 - name: Ying Liu 
   role: student
-  current: yes
+  current: no
   id: ying
   mugshot: ying.png
   blurb: is a PhD student in the Department of Geosciences at Texas Tech.
@@ -37,7 +60,7 @@
 
 - name: Morgan Kraft 
   role: student
-  current: yes
+  current: no
   id: morgan
   mugshot: morgan.jpg
   blurb: is a Master student in the Department of Geosciences at Texas
@@ -48,7 +71,7 @@
 
 - name: Ashley Morris
   role: student
-  current: yes
+  current: no
   id: ashley
   mugshot: ashley.jpg
   blurb: is a Master student in the Department of Geosciences at Texas
@@ -58,7 +81,7 @@
 
 - name: Feixiong Luo 
   role: student
-  current: yes
+  current: no
   id: feixiong
   mugshot: tt.jpg
   blurb: is a Master student in the Department of Geosciences at Texas
@@ -67,7 +90,7 @@
 
 - name: Bo Zhong 
   role: visiting
-  current: yes
+  current: no
   id: zhong
   mugshot: tt.jpg
   blurb: is a research scientist at the [Institute of Remote Sensing and
