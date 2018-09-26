@@ -15,13 +15,9 @@ nav: people
 
 # Current Members
 
-<div class="row">
-
 {% for p in site.data.people %}{% if p.status == 'current' %}
 {% include people.html %}{% endif %}
 {% endfor %}
-
-</div>
 
 # Lab Alumni
 
