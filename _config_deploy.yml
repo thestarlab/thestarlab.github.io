@@ -10,7 +10,7 @@ paginate_path: "news/page:num"
 
 safe: true
 
-title: The STAR Lab
+title: STAR Lab
 subtitle: Spatiotemporal Pattern Analysis & Research Laboratory
 author: Guofeng Cao 
 production_url: http://www.depts.ttu.edu/geospatial/center/starlab
