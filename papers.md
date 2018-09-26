@@ -12,6 +12,8 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
+- Jamali, M., Nejat, A., Ghosh, S., Jin, F. and **Cao,** G. (2019): Social media data and post-disaster recovery of giant natural disasters. International Journal of Information Management, 44, 25-37.
+
 - Zhao, N.<sup>+</sup>, Zhang, W., Liu, Y.<sup>+</sup>, Samson, E., Chen,
   Y. and **Cao**, G.<sup>*</sup>: Improving nighttime lights imagery with
   location-based social media data. IEEE Transactions on Geosciences and
