@@ -18,15 +18,16 @@
   id: congliang
   mugshot: congliang.jpg
   blurb: is a PhD student in the Department of Geosciences at Texas Tech.
-          With a focus on geostatistics and remote sensing, his topic is to
-          develop machine learning methods to understand the spatiotemporal dynamics in massive remote sensing imagery. 
+  With a focus on geostatistics and remote sensing, his topic is to develop
+  machine learning methods to understand the spatiotemporal dynamics in
+  massive remote sensing imagery. 
 
 - name: Jimin Chun
   role: student
   current: yes
   id: jimin
   mugshot: tt.jpg
-  blurb: is a PhD student in the Department of Geosciences at Texas Tech. Her dissertation is to investigate the uncertainty and changes of land surface (e.g., land use and land cover) on atmospheric dynamics across multiple spatiotemporal scales .
+  blurb: is a PhD student in the Department of Geosciences at Texas Tech. Her dissertation is to investigate the uncertainty and changes of land surface (e.g., land use and land cover) on atmospheric dynamics across multiple geographic scales.
 
 - name: Chan-mi Lee
   role: student
@@ -40,53 +41,52 @@
   role: postdoc
   id: naizhuo
   mugshot: naizhuo.jpg
-  blurb: is a postdoctoral research associate. He finished his PhD in
-          Geography from Texas State University in 2014, now is working on
-          using remote sensing and GIS techniques to study the impact of
-          human activity on urban and natural systems.  He also teaches
-          remote sensing and GIS courses in the Department of Geosciences
-          at Texas Tech. 
+  blurb: was a postdoctoral research associate at STAR lab. He finished his
+  PhD in Geography from Texas State University in 2014, His expertise is
+  using remote sensing imagery, particularly nighttime light imagery, to
+  study the impact of human activity on urban and natural systems. 
 
 - name: Ying Liu 
   role: student
   current: no
   id: ying
   mugshot: ying.jpg
-  blurb: is a PhD student in the Department of Geosciences at Texas Tech.
-          With a focus on environmental remote sensing, her topic is to
-          develop spatiotemporal methodologies to understand the human and
-          natural factors in environmental pollution distribution, and
-          evaluate the associated impact on public health outcomes. 
+  blurb: was a PhD student in the Department of Geosciences at Texas Tech.
+  With a focus on environmental remote sensing, her dissertation topic was
+  to develop spatiotemporal methodologies to understand the human and
+  natural factors in environmental pollution distribution, and evaluate the
+  associated impact on public health outcomes. 
 
 - name: Morgan Kraft 
   role: student
   current: no
   id: morgan
   mugshot: morgan.jpg
-  blurb: is a Master student in the Department of Geosciences at Texas
-          Tech. His thesis is to investigate the bias and uncertainty
-          issues of location-based social media (e.g., Twitter) in
-          representing real-world social processes, and evaluate the
-          possible consequences. 
+  blurb: was a Master student in the Geography group of Department of
+  Geosciences at Texas Tech. His thesis topic as to investigate the bias
+  and uncertainty issues of location-based social media (e.g., Twitter) in
+  representing real-world social processes, and evaluate the possible
+  consequences. 
 
 - name: Ashley Morris
   role: student
   current: no
   id: ashley
   mugshot: ashley.jpg
-  blurb: is a Master student in the Department of Geosciences at Texas
-          Tech. Her topic is the emergence management in natural hazards.
-          She is particularly interested in using GIS to map and enhance
-          the community resilience to tornado hazards.
+  blurb: was a Master student in the Geography group of Department of
+  Geosciences at Texas Tech. Her topic was the emergence management in
+  natural hazards. She is particularly interested in using GIS to map and
+  enhance the community resilience to tornado hazards.
 
 - name: Feixiong Luo 
   role: student
-  current: no
+  current: yes
   id: feixiong
   mugshot: tt.jpg
-  blurb: is a Master student in the Department of Geosciences at Texas
-          Tech. He is working on the development of new spatiotemporal
-          analytics for large-scale location-based social media data. 
+  blurb: is a PhD student in the Department of Geosciences at Texas
+          Tech. He had been working on the development of new
+          spatiotemporal analytics for large-scale location-based social
+          media data. He is currently taking leave at Alibaba.com
 
 - name: Bo Zhong 
   role: visiting
@@ -95,5 +95,4 @@
   mugshot: tt.jpg
   blurb: is a research scientist at the [Institute of Remote Sensing and
           Digital Earth](http://english.ceode.cas.cn/), Chinese Academy of
-          Science. He is currently visiting at STAR lab.  
-
+          Science. He had visited STAR lab during October 2015 to March 2016.  
