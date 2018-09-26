@@ -62,6 +62,13 @@
   mugshot: ashley.jpg
   blurb: was a Master student in the Geography group of Department of Geosciences at Texas Tech. Her topic was the emergence management in natural hazards. She is particularly interested in using GIS to map and enhance the community resilience to tornado hazards.
 
+- name: Wei Zhang
+  role: student
+  status: alumni
+  id: wei
+  mugshot: ttu.jpg
+  blurb: is a PhD student in the Department of Computer Science at Texas Tech. He worked in STAR lab as a graduate research assistant during 2015-2016. He helped develop high performance data mining methods for location-based social media data.
+
 - name: Bo Zhong 
   role: visiting
   status: finished
