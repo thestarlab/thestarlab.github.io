@@ -12,17 +12,17 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Jamali, M., Nejat, A., Ghosh, S., Jin, F. and **Cao,** G. (2019): Social media data and post-disaster recovery of giant natural disasters. International Journal of Information Management, 44, 25-37.
-
 - Zhao, N.<sup>+</sup>, Zhang, W., Liu, Y.<sup>+</sup>, Samson, E., Chen,
   Y. and **Cao**, G.<sup>*</sup>: Improving nighttime lights imagery with
   location-based social media data. IEEE Transactions on Geosciences and
   Remote Sensing (accepted). 
 
+- Jamali, M., Nejat, A., Ghosh, S., Jin, F. and **Cao,** G. (2019): Social media data and post-disaster recovery of giant natural disasters. International Journal of Information Management, 44, 25-37.
+
 - Zhao, N.<sup>+</sup>, Liu, Y. <sup>+</sup>, J. Vanos, and **Cao**,
   G.: Day-of-week and seasonal patterns of PM2.5 concentrations
   over the United States: Time-series analyses using the Prophet procedure.
-  Atmospheric Environment (accepted).
+  Atmospheric Environment 192, 116-127..
 
 - Herdt, A., Brown, R., Scott-Fleming, S., **Cao**, G., MacDonald, M.,
   Henderson, D. and Vanos, J. (2018): Outdoor Thermal Comfort during
