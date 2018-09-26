@@ -27,11 +27,7 @@ nav: people
 
 # Visiting Scholars
 
-<div class="row">
-
 {% for p in site.data.people %}{% if p.role == 'visiting' %}
 {% include people.html %}{% endif %}
 {% endfor %}
-
-</div>
 
