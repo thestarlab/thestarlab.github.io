@@ -15,14 +15,14 @@ sensing) and computational science. We are interested in deep learning of
 heterogeneous geographic information to support uncertainty-aware
 geographic knowledge discovery and decision making. Particularly, we focus
 on the development of statistical and computational methodologies for (a)
-integrating *heterogeneous sources of geographic information* (e.g.,
+integrating **heterogeneous sources of geographic information** (e.g.,
 incompatible scales) for geographic analysis; (b) characterizing and
-modeling *complex spatiotemporal patterns* in geographic phenomena and
-processes; (c) characterizing and modeling *spatiotemporal bias and
-uncertainty* of geographic information and the associated impacts; (d)
-addressing the *computing challenges* when the data scale and model
+modeling **complex spatiotemporal patterns** in geographic phenomena and
+processes; (c) characterizing and modeling **spatiotemporal bias and
+uncertainty** of geographic information and the associated impacts; (d)
+addressing the **computing challenges** when the data scale and model
 complexity increase dramatically; and (e) building geospatial-enabled
-*cyberinfrastructure* for domain scientists. Domain applications focus on
+**cyberinfrastructure** for domain scientists. Domain applications focus on
 environmental sciences, public health and social sciences.
 
 <!--</div> -->
