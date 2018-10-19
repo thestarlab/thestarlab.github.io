@@ -17,7 +17,7 @@ Journals*</span> -->
   location-based social media data. IEEE Transactions on Geosciences and
   Remote Sensing (accepted). 
 
-- Jamali, M., Nejat, A., Ghosh, S., Jin, F. and **Cao,** G. (2019): Social media data and post-disaster recovery of giant natural disasters. International Journal of Information Management, 44, 25-37.
+- Jamali, M., Nejat, A., Ghosh, S., Jin, F. and **Cao,** G. (2019): Social media data and post-disaster recovery. International Journal of Information Management, 44, 25-37.
 
 - Zhao, N.<sup>+</sup>, Liu, Y. <sup>+</sup>, J. Vanos, and **Cao**,
   G.: Day-of-week and seasonal patterns of PM2.5 concentrations
