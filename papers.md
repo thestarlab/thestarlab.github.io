@@ -12,10 +12,15 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
+- Liu, Y.<sup>+</sup>, Zhao, N.<sup>+</sup>, Vanos, J. and **Cao,**
+  G.<sup>*</sup>: Revisiting the estimations of PM2.5-attributable mortality with
+advancements in PM2.5 mapping and mortality statistics. Science of the
+Total Environment. (Accepted) 
+
 - Zhao, N.<sup>+</sup>, Zhang, W., Liu, Y.<sup>+</sup>, Samson, E., Chen,
   Y. and **Cao**, G.<sup>*</sup>: Improving nighttime lights imagery with
   location-based social media data. IEEE Transactions on Geosciences and
-  Remote Sensing (accepted). 
+  Remote Sensing. doi: 10.1109/TGRS.2018.2871788. 
 
 - Jamali, M., Nejat, A., Ghosh, S., Jin, F. and **Cao,** G. (2019): Social media data and post-disaster recovery. International Journal of Information Management, 44, 25-37.
 
