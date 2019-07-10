@@ -12,20 +12,25 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Liu, S., Hu, H., **Cao,** G., Wang, S. and Guan, Q.: Learning from data:
+- Liu, S., Hu, H., **Cao,** G., Wang, S. and Guan, Q. (2019): Learning from data:
   A post classification method for annual land cover analysis in urban
   areas. ISPRS Journal of Photogrammetry and Remote Sensing 154, 202-215
 
-- Guo, M., Su, J. and **Cao,** G.: Statistical Regression Analysis of Functional and Shape
-  Data. Journal of Applied Statistics. (Accepted) 
+- Guo, M., Su, J. and **Cao,** G. (2019): Statistical Regression Analysis
+  of Functional and Shape Data. Journal of Applied Statistics. (Accepted) 
 
-- Su, Y-H.<sup>+</sup>, Tsou, M-H., Knapp, E., Rey, S.  and **Cao,** G.:
+- Su, Y-H.<sup>+</sup>, Tsou, M-H., Knapp, E., Rey, S.  and **Cao,** G.(2019):
   How Do Cities Flow in an Emergency? Tracing Human Mobility Patterns
   during a Natural Disaster with Big Data and Geospatial Data Science.
   Urban Science, 3(2), 51.
 
+- Liu, Y.<sup>+</sup>, Zhao, N.<sup>+</sup>, Vanos, J., and **Cao**,
+  G.<sup>*</sup> (2019): Revisiting the estimations of PM2.5-attributable
+  mortality with advancements in PM2.5 mapping and mortality statistics.
+  Science of the Total Environment, 666, 499-507.
+
 - Zhao, N.<sup>+</sup>, Zhang, W., Liu, Y.<sup>+</sup>, Samson, E., Chen,
-  Y. and **Cao**, G.<sup>*</sup>: Improving nighttime lights imagery with
+  Y. and **Cao**, G.<sup>*</sup> (2019): Improving nighttime lights imagery with
   location-based social media data. IEEE Transactions on Geosciences and
   Remote Sensing. doi: 10.1109/TGRS.2018.2871788. 
 
