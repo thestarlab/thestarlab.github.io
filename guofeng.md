@@ -27,8 +27,9 @@ Office: 211 Holden Hall
 <div class="col-md-8" markdown="1">
 
 ## Positions
-- Co-Director, [Center for Geospatial Technology](http://www.gis.ttu.edu), Oct. 2015 -
-- Assistant Professor, [Department of Geosciences](http://www.geosciences.ttu.edu), Aug. 2013 - 
+- Associate Professor, [Department of Geosciences](http://www.geosciences.ttu.edu), Sept. 2019 - 
+- Director, [Center for Geospatial Technology](http://www.gis.ttu.edu), Oct. 2015 -
+- Assistant Professor, [Department of Geosciences](http://www.geosciences.ttu.edu), Aug. 2013 - Sept. 2019
 - Founding Director, [Spatiotemporal Pattern Analysis & Research Laboratory]({{site.url}}/), Aug. 2013 - 
 - Team Leader, [SuperMap Software](http://www.supermap.com/en), 2002-2006
 
@@ -49,7 +50,5 @@ Office: 211 Holden Hall
 - GIST 4302/5302: [Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302) (undergraduate/graduate)
 - GEOG 3340: [Human Geography Research](http://www.gis.ttu.edu/geog3340) (undergraduate) 
 - GEOG 5330: [Applied Spatial and Spatiotemporal Analysis](https://github.com/surfcao/geog5330) (graduate)
-
-
 
 </div>
