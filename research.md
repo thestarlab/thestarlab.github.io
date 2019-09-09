@@ -31,6 +31,8 @@ environmental sciences, public health and social sciences.
 
 # Current Projects 
 
++ DOC NIST: Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms. (2019-2022)
+
 + USGS: Toward Near Real-time Monitoring and Characterization of Land Surface Change for the Conterminous US (2017-2022).
 
 + CH Foundation: Mapping Local Community Preparedness to Tornado Hazards in Lubbock, Texas (2018-2019).
