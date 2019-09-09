@@ -8,10 +8,10 @@
 
 - name: Congliang Zhou
   role: student
-  status: current
+  status: alumni
   id: congliang
   mugshot: congliang.jpg
-  blurb: is a PhD student in the Department of Geosciences at Texas Tech. With a focus on geostatistics and remote sensing, his topic is to develop machine learning methods to understand the spatiotemporal dynamics in massive remote sensing imagery. 
+  blurb: was a Master student in the Department of Geosciences at Texas Tech. With a focus on geostatistics and remote sensing, his topic is to develop machine learning methods to understand the spatiotemporal dynamics in massive remote sensing imagery. 
 
 - name: Jimin Chun
   role: student
