@@ -50,5 +50,6 @@ Office: 211 Holden Hall
 - GIST 4302/5302: [Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302) (undergraduate/graduate)
 - GEOG 3340: [Human Geography Research](http://www.gis.ttu.edu/geog3340) (undergraduate) 
 - GEOG 5330: [Applied Spatial and Spatiotemporal Analysis](https://github.com/surfcao/geog5330) (graduate)
+- GEOG 5312: Geographic Thoughts (graduate)
 
 </div>
