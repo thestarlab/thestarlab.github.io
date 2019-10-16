@@ -31,30 +31,31 @@ environmental sciences, public health and social sciences.
 
 # Current Projects 
 
-+ DOC NIST: Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms. (2019-2022)
++ DOC NIST: Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms (2019-2022), $667,024, Co-PI
 
-+ USGS: Toward Near Real-time Monitoring and Characterization of Land Surface Change for the Conterminous US (2017-2022).
++ USGS: Toward Near Real-time Monitoring and Characterization of Land Surface Change for the Conterminous US (2017-2022), $1,062,069, Co-I
 
-+ CH Foundation: Mapping Local Community Preparedness to Tornado Hazards in Lubbock, Texas (2018-2019).
++ CH Foundation: Mapping Local Community Preparedness to Tornado Hazards in Lubbock, Texas (2018-2019), $29,500, PI
 
-+ CH Foundation: Immersive VR Experience for Teaching, Learning, and Researching  (2018-2019).
++ CH Foundation: Immersive VR Experience for Teaching, Learning, and Researching (2018-2019), $17,989, Co-PI
 
-+ Texas Tech: Story Maps of Humanitarian Projects around the World (2017-2018)
++ Texas Tech: Story Maps of Humanitarian Projects around the World (2017-2018), $90,000, Co-PI 
 
-+ USAID: Mappers Without Borders (2015-2020).
++ USAID: Mappers Without Borders (2015-2020), $990,000, Co-PI
 
 # Finished Projects 
 
-+ USDA: Development of a GIS Model to Project and Map Future Water Availability (2015-2016).
++ USDA: Development of a GIS Model to Project and Map Future Water Availability (2015-2016), $119,895, Co-PI
 
-+ Texas Tech National Wind Institute: Toward a Geospatial Cyberinfrastructure for Enhancement of Community Resilience to Tornado Hazards (2014-2015).
++ Texas Tech National Wind Institute: Toward a Geospatial Cyberinfrastructure for Enhancement of Community Resilience to Tornado Hazards (2014-2015), $30,500, PI 
 
-+ Texas Tech Transdisciplinary Research Academy: A Big Data Approach for Spatial Environmental Epidemiology. (2014-2015)
++ Texas Tech Transdisciplinary Research Academy: A Big Data Approach for Spatial Environmental Epidemiology (2014-2015), $4,000, PI
 
-+ USDA: Development of Current Hydrologic Data and Analysis of Water Availability in the Ogallala Aquifer over the Next 50 Years. (2014-2016)
++ USDA: Development of Current Hydrologic Data and Analysis of Water Availability in the Ogallala Aquifer over the Next 50 Years (2014-2016), $40, 679, Co-PI
 
 + National Institute on Minority Health and Health Disparities Pilot
 Research Core: Center of Excellence at Meharry (HDRCOE): "Linking climate,
 air pollution and housing conditions to develop strategies to reduce racial
-disparities in infant mortality" (2014-2015)
+disparities in infant mortality" (2014-2015), $12,729, Co-PI
+
 <!--</div> -->
