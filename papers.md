@@ -12,12 +12,26 @@ Journals*</span> -->
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Liu, S., Hu, H., **Cao,** G., Wang, S. and Guan, Q. (2019): Learning from data:
-  A post classification method for annual land cover analysis in urban
-  areas. ISPRS Journal of Photogrammetry and Remote Sensing 154, 202-215
+- Zhao, N., **Cao**, G.<sup>*</sup>, Zhang, W., Samson, E. L., and Chen, Y.
+  (2020). Remote sensing and social sensing for socioeconomic systems: A
+  comparison study between nighttime lights and location-based social media
+  at the 500 m spatial resolution. International Journal of Applied Earth
+  Observation and Geoinformation, 87, 102058.
+
+- Tiffin, H. S., Peper, S. T., Wilson-Fallon, A. N., Haydett, K. M., Cao,
+  G., and Presley, S. M. (2019). The Influence of New Surveillance Data on Predictive Species Distribution Modeling of Aedes aegypti and Aedes albopictus in the United States. Insects, 10(11), 400.
+
+- Liu, S., Hu, H., **Cao,** G., Wang, S. and Guan, Q. (2019): Learning from
+  data: A post classification method for annual land cover analysis in
+  urban areas. ISPRS Journal of Photogrammetry and Remote Sensing 154,
+  202-215
 
 - Guo, M., Su, J. and **Cao,** G. (2019): Statistical Regression Analysis
   of Functional and Shape Data. Journal of Applied Statistics. (Accepted) 
+
+- Nguyen, L., Yang, Z., Li, J., Pan, Z., **Cao,** G., and Jin, F. (2019).
+  Forecasting people's needs in hurricane events from social network. IEEE
+  Transactions on Big Data.
 
 - Su, Y-H.<sup>+</sup>, Tsou, M-H., Knapp, E., Rey, S.  and **Cao,** G.(2019):
   How Do Cities Flow in an Emergency? Tracing Human Mobility Patterns
