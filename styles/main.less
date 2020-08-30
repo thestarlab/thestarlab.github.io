@@ -152,7 +152,8 @@ font-size:1.1em;
 .navbar-default {
   //background: @red; //none;
   background: @gold; //none;
-  color: white;
+  //color: white;
+  color: black;
   border: none;
   height: @bheight;
   //font-size: 18px;
@@ -162,7 +163,8 @@ font-size:1.1em;
 .navbar-header {
   font-size: 1.6em !important;
   a {
-    color: white !important;
+    //color: white !important;
+    color: black !important;
   }
   font-family: "PT Serif";
   line-height: @nalh;
@@ -186,9 +188,11 @@ ul.nav {
   li {
     a {
       text-transform: lowercase;
-      color: fadeout(white, 20%) !important;
+      //color: fadeout(white, 20%) !important;
+      color: fadeout(black, 20%) !important;
       &:hover {
-        color: white !important;
+        //color: white !important;
+        color: black !important;
       }
     }
     &.active {
@@ -204,14 +208,16 @@ margin-bottom: 0.5em;
 }
 
 .scrolled {
-  background-color: white;
+  //background-color: white;
+  background-color: black;
   .navbar-header {
     a {
       color: @medium !important;
     }
   }
   ul.nav {
-  background-color: white;
+  //background-color: white;
+  background-color: black;
     li {
       a {
         color: fadeout(@medium, 40%) !important;
@@ -231,15 +237,18 @@ margin-bottom: 0.5em;
   //background-color: @red;
   .navbar-header {
     a {
-      color: white !important;
+      //color: white !important;
+      color: black !important;
     }
   }
   ul.nav {
     li {
       a {
-        color: fadeout(white, 20%) !important;
+        //color: fadeout(white, 20%) !important;
+        color: fadeout(black, 20%) !important;
         &:hover {
-          color: white !important;
+          //color: white !important;
+          color: black !important;
         }
       }
       &.active {
@@ -267,7 +276,8 @@ ul.nav {
         //background-color: lighten(@red, 3%);
         background-color: lighten(@gold, 3%);
         border-radius: 2px;
-        color: white;
+        //color: white;
+        color: black;
       }
     }
   }
