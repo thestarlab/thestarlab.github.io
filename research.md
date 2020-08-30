@@ -31,6 +31,8 @@ environmental sciences, public health and social sciences.
 
 # Current Projects 
 
++ NSF:  Deep Learning in Geospatial Uncertainty Modeling (2020-2024), $265,058, Sole PI
+
 + DOC NIST: Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms (2019-2022), $667,024, Co-PI
 
 + USGS: Toward Near Real-time Monitoring and Characterization of Land Surface Change for the Conterminous US (2017-2022), $1,062,069, Co-I
