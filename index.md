@@ -18,8 +18,8 @@ opportunities](opportunities).
 </div>
 
 <div class="col-md-4" markdown="1">
-<div> <img class="img-responsive" src="{{site.url}}/resources/showroom/lighthouse.jpg" width="501"
-height="150" title="Palo Duro Lighthouse"> </div>
+<div> <img class="img-responsive" src="{{site.url}}/resources/showroom/CUB.jpg" width="501"
+height="150" title="CU Boulder"> </div>
 </div>
 
 </div>
