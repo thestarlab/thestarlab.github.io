@@ -7,7 +7,7 @@ nav: opportunities
 STAR lab offers a research environment where you will be able to pursue
 your scientific interests and gain practical experiences and new skills.
 Please see the following open opportunities in our lab, and if interested,
-send inquiry emails to Guofeng Cao (`guofeng.cao@ttu.edu`). Experiences in
+send inquiry emails to Guofeng Cao (`guofeng.cao@colorado.edu`). Experiences in
 statistics or programming is always a plus, but not a requirement.
 
 # Current Opportunities
