@@ -195,9 +195,11 @@ ul.nav {
   li {
     a {
       text-transform: lowercase;
-      color: fadeout(white, 20%) !important;
+      //color: fadeout(white, 20%) !important;
+      color: fadeout(@gold, 20%) !important;
       &:hover {
-        color: white !important;
+        //color: white !important;
+        color: @gold !important;
       }
     }
     &.active {
@@ -242,15 +244,18 @@ margin-bottom: 0.5em;
   //background-color: @red;
   .navbar-header {
     a {
-      color: white !important;
+      //color: white !important;
+      color: @gold !important;
     }
   }
   ul.nav {
     li {
       a {
-        color: fadeout(white, 20%) !important;
+        //color: fadeout(white, 20%) !important;
+        color: fadeout(@gold, 20%) !important;
         &:hover {
-          color: white !important;
+          //color: white !important;
+          color: @gold !important;
         }
       }
       &.active {
@@ -278,7 +283,8 @@ ul.nav {
         //background-color: lighten(@red, 3%);
         background-color: lighten(@gold, 3%);
         border-radius: 2px;
-        color: white;
+        //color: white;
+        color: @gold;
       }
     }
   }
