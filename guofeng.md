@@ -11,11 +11,11 @@ height: 200px"/>
 Guofeng Cao
 
 
-Email: `guofeng.cao@ttu.edu`
+Email: [guofeng.cao@colorado.edu](mailto:guofeng.cao@ttu.edu)
 
 Tel: 806-834-8920
 
-Office: 211 Holden Hall
+Office: 201A Guggenheim 
 
 ---
 
