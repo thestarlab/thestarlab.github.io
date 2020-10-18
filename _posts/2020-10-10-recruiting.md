@@ -11,8 +11,7 @@ Students will be funded via research and teaching assistantships, which
 includes full tuition coverage, a stipend, and health insurance, contingent
 on good progress through the program. 
 
-Qualified candidates should have a degree in Statistics, Computer Science,
-Geography or a related discipline, and expertise in geographic information
+Qualified candidates should have a degree in Geography, Statistics, Computer Science or a related discipline, and expertise in geographic information
 system (GIS) and remote sensing. Preference will be given to applicants
 with strong quantitative backgrounds and programming experiences in machine
 learning or geospatial data analysis. The stipend for this position is
