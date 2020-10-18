@@ -22,10 +22,14 @@ data-intensive and computation intensive spatiotemporal analysis and
 modeling. Financial support is available through graduate fellowship or
 RA/TAship for qualified students. 
 
+[New PhD opportunity available!](http://www.spatstat.com/2020/10/10/recruiting/)
+
 ## Undergraduates 
 
 We also provide research and practice opportunity through the undergraduate
-research programs offered at Texas Tech (e.g., [Undergraduate Research
-Scholar Program](http://www.ciser.ttu.edu/student-research-opportunities/undergraduate-research-scholar-urs-program/)). Please contact us if interested in 
-learning more about GIS, remote sensing and geospatial technologies. 
+research programs offered at CU Boulder (e.g., [Undergraduate Research
+Opportunities Program](https://www.colorado.edu/urop/)). Please contact
+Guofeng([guofeng.cao@colorado.edu](mailto:guofeng.cao@colorado.edu)) if
+interested in learning more about GIS, remote sensing and geospatial
+technologies. 
 
