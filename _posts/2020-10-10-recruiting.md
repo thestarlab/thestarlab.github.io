@@ -1,0 +1,26 @@
+---
+layout: news
+title: New PhD opportunity available
+author: Guofeng
+paper: 
+---
+We are seeking PhD students starting as early as Spring 2021 to develop new
+machine learning methods of big spatiotemporal data for innovative
+applications in natural hazards, land surface changes and public health.
+Students will be funded via research and teaching assistantships, which
+includes full tuition coverage, a stipend, and health insurance, contingent
+on good progress through the program. 
+
+Qualified candidates should have a degree in Statistics, Computer Science,
+Geography or a related discipline, and expertise in geographic information
+system (GIS) and remote sensing. Preference will be given to applicants
+with strong quantitative backgrounds and programming experiences in machine
+learning or geospatial data analysis. The stipend for this position is
+competitive, and the tuition is covered. If interested, please send a CV or
+inquires to Dr.\ Guofeng Cao (\texttt{guofeng.cao@colorado.edu}).
+Applications are due on December 1st, 2020. Information about how to apply
+can be found here: \href{https://www.colorado.edu/graduateschool/admissions/how-to-apply}{Begin
+your application process}
+
+
+
