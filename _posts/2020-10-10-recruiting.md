@@ -17,10 +17,9 @@ system (GIS) and remote sensing. Preference will be given to applicants
 with strong quantitative backgrounds and programming experiences in machine
 learning or geospatial data analysis. The stipend for this position is
 competitive, and the tuition is covered. If interested, please send a CV or
-inquires to Dr.\ Guofeng Cao (\texttt{guofeng.cao@colorado.edu}).
-Applications are due on December 1st, 2020. Information about how to apply
-can be found here: \href{https://www.colorado.edu/graduateschool/admissions/how-to-apply}{Begin
-your application process}
-
+inquires to Dr. Guofeng Cao (`guofeng.cao@colorado.edu`).  Applications are
+due on December 1st, 2020. Information about how to apply can be found
+here: [Begin your application
+process](https://www.colorado.edu/graduateschool/admissions/how-to-apply)
 
 
