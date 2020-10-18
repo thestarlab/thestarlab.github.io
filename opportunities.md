@@ -22,7 +22,7 @@ data-intensive and computation intensive spatiotemporal analysis and
 modeling. Financial support is available through graduate fellowship or
 RA/TAship for qualified students. 
 
-[New PhD opportunity available!](http://www.spatstat.com/2020/10/10/recruiting/)
+- [New PhD opportunity available!](http://www.spatstat.com/2020/10/10/recruiting/)
 
 ## Undergraduates 
 
