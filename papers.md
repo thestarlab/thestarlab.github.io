@@ -9,10 +9,19 @@ nav: papers
 <!--<span style="text-decoration: underline">*In Peer-Reviewed
 Journals*</span> -->
 
+[Google Scholar](https://scholar.google.com/citations?user=9M4g4nUAAAAJ&hl=en)
+
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Zhao, N., **Cao**, G.<sup>*</sup>, Zhang, W., Samson, E. L., and Chen, Y.
+- Jamali, M., Nejat, A., Moradi, S., Ghosh, S., **Cao**, G., Jin, F. (2020). Social media data and housing recovery following extreme natural hazards
+
+- Zhao, N.<sup>+</sup>, Liu, Y.<sup>+</sup>, Hsu, F., Samson, E.L., Husi,
+  L., Liang,D,  **Cao**, G.<sup>*</sup> (2020). Time series analysis of VIIRS-DNB nighttime lights imagery for change
+  detection in urban areas: A case study of devastation in Puerto Rico from
+hurricanes Irma and Maria. Applied Geography, 120, 102222.
+
+- Zhao, N.<sup>+</sup>, **Cao**, G.<sup>*</sup>, Zhang, W., Samson, E. L., and Chen, Y.
   (2020). Remote sensing and social sensing for socioeconomic systems: A
   comparison study between nighttime lights and location-based social media
   at the 500 m spatial resolution. International Journal of Applied Earth
@@ -33,7 +42,7 @@ Journals*</span> -->
   Forecasting people's needs in hurricane events from social network. IEEE
   Transactions on Big Data.
 
-- Su, Y-H.<sup>+</sup>, Tsou, M-H., Knapp, E., Rey, S.  and **Cao,** G.(2019):
+- Su, Y-H., Tsou, M-H., Knapp, E., Rey, S.  and **Cao,** G.(2019):
   How Do Cities Flow in an Emergency? Tracing Human Mobility Patterns
   during a Natural Disaster with Big Data and Geospatial Data Science.
   Urban Science, 3(2), 51.
@@ -219,9 +228,15 @@ Concurrency and Computation: Practice and Experience, 26(13), 2253-2265.
 # In Peer-Reviewed Book Chapters
 <!--<span style="text-decoration: underline">*In Peer-Reviewed Book
 Chapters*</span>-->
--    **Cao**, G.: Modeling uncertainty in categorical
-	  fields, International Encyclopedia of Geography.
-	  (in press) 
+
+- Liu, Y.<sup>+</sup>, Cao,G., Zhao, N.<sup>+</sup> (2020). Integrate
+  machine learning and geostatistics for high-resolution mapping of
+ground-level PM2.5 concentrations. Spatiotemporal Analysis of Air Pollution
+and Its Application in Public Health (edited by Li, L.,  Zhou, X. and Tong,
+W.)
+
+-    **Cao**, G.: Modeling uncertainty in categorical fields, International
+     Encyclopedia of Geography.  (2016) 
 
 -   Wang, S. and **Cao**, G., Zhang, Z., Zhao, Y., Padmanabhan, A. and Wu,
     K. (2013): A CyberGIS environment for analysis of location-based
