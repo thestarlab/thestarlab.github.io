@@ -9,12 +9,12 @@ nav: papers
 <!--<span style="text-decoration: underline">*In Peer-Reviewed
 Journals*</span> -->
 
-[Google Scholar](https://scholar.google.com/citations?user=9M4g4nUAAAAJ&hl=en)
+[Google Scholar Page](https://scholar.google.com/citations?user=9M4g4nUAAAAJ&hl=en)
 
 # In Peer-Reviewed Journals
 (* indicates corresponding authors and + indicates the advisee authors)
 
-- Jamali, M., Nejat, A., Moradi, S., Ghosh, S., **Cao**, G., Jin, F. (2020). Social media data and housing recovery following extreme natural hazards
+- Jamali, M., Nejat, A., Moradi, S., Ghosh, S., **Cao**, G., Jin, F. (2020). Social media data and housing recovery following extreme natural hazards. International Journal of Disaster Risk Reduction, 51, 101788.
 
 - Zhao, N.<sup>+</sup>, Liu, Y.<sup>+</sup>, Hsu, F., Samson, E.L., Husi,
   L., Liang,D,  **Cao**, G.<sup>*</sup> (2020). Time series analysis of VIIRS-DNB nighttime lights imagery for change
