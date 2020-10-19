@@ -26,7 +26,7 @@ process](https://www.colorado.edu/graduateschool/admissions/how-to-apply)
 - [The Geography program at CU Boulder is one of the top ranked programs in the
 U.S.](https://www.colorado.edu/geography/2020/07/23/cu-boulder-geography-ranked-1-us)
 
-- [Boulder, Colorado is one of the best place to lives in the U.S.](https://bouldercolorado.gov/newsroom/boulder-named-best-place-to-live-in-nation-by-us-news-world-report)
+- [Boulder, Colorado is one of the best places to live in the U.S.](https://bouldercolorado.gov/newsroom/boulder-named-best-place-to-live-in-nation-by-us-news-world-report)
 
 
 
