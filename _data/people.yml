@@ -11,7 +11,7 @@
   status: alumni
   id: congliang
   mugshot: congliang.jpg
-  blurb: was a Master student in the Department of Geosciences at Texas Tech. With a focus on geostatistics and remote sensing, his topic is to develop machine learning methods to understand the spatiotemporal dynamics in massive remote sensing imagery. 
+  blurb: was a Master student in the Department of Geosciences at Texas Tech. With a focus on geostatistics and remote sensing, his topic is to develop machine learning methods to understand the spatiotemporal dynamics in remote sensing imagery. Currently PhD at University of Florida.
 
 - name: Jimin Chun
   role: student
@@ -22,24 +22,24 @@
 
 - name: Chan-mi Lee
   role: student
-  status: current
+  status: alumni
   id: chanmi
   mugshot: chanmi.jpg
-  blurb: is a Master student in the Geography group of the Department of Geosciences at Texas Tech. She did her undergraduate in Geography at the University of Oklahoma. Her thesis work focuses on applications of GIS and geospatial technologies in environmental health. 
+  blurb: is a Master student in the Geography group of the Department of Geosciences at Texas Tech. She did her undergraduate in Geography at the University of Oklahoma. Her thesis work focuses on applications of GIS and geospatial technologies in environmental health. Currently PhD at Temple University
 
 - name: Naizhuo Zhao
   status: alumni
   role: postdoc
   id: naizhuo
   mugshot: naizhuo.jpg
-  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas State University in 2014, His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. 
+  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas State University in 2014, His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. Currently at McGill University 
 
 - name: Ying Liu 
   role: student
   status: alumni
   id: ying
   mugshot: ying.jpg
-  blurb: was a PhD student in the Department of Geosciences at Texas Tech. With a focus on environmental remote sensing, her dissertation topic was to develop spatiotemporal methodologies to understand the human and natural factors in environmental pollution distribution, and evaluate the associated impact on public health outcomes. 
+  blurb: was a PhD student in the Department of Geosciences at Texas Tech. With a focus on environmental remote sensing, her dissertation topic was to develop spatiotemporal methodologies to understand the human and natural factors in environmental pollution distribution, and evaluate the associated impact on public health outcomes. Currently at University of Montreal
 
 - name: Feixiong Luo 
   role: student
