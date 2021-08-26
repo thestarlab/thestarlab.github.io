@@ -5,8 +5,8 @@ title: Deep Learning for Geospatial Uncertainty Modeling
 
 # NSF:  Deep Learning in Geospatial Uncertainty Modeling 
 
-This project will contribute new statistical methods and tools for the
-analysis of complex and incompatible geospatial data to advance
+This NSF-funded project will contribute new statistical methods and tools
+for the analysis of complex and incompatible geospatial data to advance
 uncertainty-aware, data-driven geographic knowledge discovery. As
 geospatial data become increasingly available, the complexity of geospatial
 data marked by complex patterns and sources of uncertainty increases
@@ -40,4 +40,6 @@ performances of the developed methods will be evaluated in two domain
 applications: spatiotemporal disease mapping in public health and modeling
 uncertainty of land cover changes and the impact on atmospheric models.
 
+## Publication
 
+## Software
