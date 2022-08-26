@@ -12,12 +12,14 @@ Our research is characterized by an interdisciplinary perspective on
 **geographic information science** driven by the advances of artificial
 intelligence, machine learning, earth observations (e.g., remote sensing
 and social sensing) and computational science. We are particularly
-interested in developing advanced geospatial methods and software tools to
-model and communicate the spatiotemporal patterns buried in the sea of
-heterogeneous geospatial data to support uncertainty-aware knowledge
-discovery and decision making. We work closely with domain scientists to
-tackle challenges in environmental sciences, climate science, environmental
-health, public health and social sciences.
+interested in developing advanced quantitative methods (i.e., AI,
+statistical and computational methods) and software tools to model and
+communicate the complex spatiotemporal patterns buried in the sea of messy
+geospatial data to support uncertainty-aware knowledge discovery and
+decision making. We work closely with domain scientists to tackle the
+challenges in environmental sciences, climate science, environmental
+health, public health and social sciences. See below for the current and
+completed projects.
 
 <!--Particularly, we focus on the development of statistical and
 computational methodologies for (a) integrating **heterogeneous sources of
@@ -35,7 +37,7 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 
 <!--<div class="col-xs-12 col-md-12 resobj" markdown="1"> -->
 
-# Current Projects 
+## Current Projects 
 
 + USDA:  Geospatial Artificial Intelligence for Spatiotemporal Modeling of Pest Insects (2022-2023), $100k, PI (with J. Humphreys)
 
@@ -48,7 +50,7 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 + USGS: Toward Near Real-time Monitoring and Characterization of Land Surface Change for the Conterminous US (2017-2022), $1,062,069, Co-I (with PI: Z. Zhu)
 
 
-# Finished Projects 
+## Finished Projects 
 
 + CH Foundation: Mapping Local Community Preparedness to Tornado Hazards in Lubbock, Texas (2018-2019), $29,500, PI
 
