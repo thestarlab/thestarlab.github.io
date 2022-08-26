@@ -11,9 +11,9 @@ height: 200px"/>
 Guofeng Cao
 
 
-Email: [guofeng.cao@colorado.edu](mailto:guofeng.cao@ttu.edu)
+Email: [guofeng.cao@colorado.edu](mailto:guofeng.cao@colorado.edu)
 
-Tel: 806-834-8920
+Tel: 303-735-0659
 
 Office: 201A Guggenheim 
 

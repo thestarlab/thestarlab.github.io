@@ -6,6 +6,34 @@
   mugshot: guofeng.jpg 
   blurb: is a GIS professor at the [Department of Geography at CU Boulder](https://www.colorado.edu/geography/), also the director of STAR lab. His research primarily focuses on developing statistical methods and high performance computing methods to characterize and model spatial and spatiotemporal patterns. He was broadly trained in earth sciences, computer science, applied statistics, geographic information science and remote sensing. He also has several years of experiences in software industry before moving back to academia. 
 
+- name: Andong Ma
+  role: postdoc
+  status: current
+  id: andong
+  mugshot: andong.png
+  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas A&M University in 2021. His expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications, e.g., characterizing land surface changes and assessing the impact of natural hazards. [More information is here](https://www.andongma.me/).
+
+- name: Guiye Li
+  role: student
+  status: current
+  id: guiye
+  mugshot: guiye.png
+  blurb: is a PhD student at STAR lab. His topic is to develop new deep learning-based methods to model and characterize the uncertainty of geospatial data. 
+
+- name: Ryan Erickson
+  role: student
+  status: current
+  id: ryan
+  mugshot: ryan.png
+  blurb: is a Master student at STAR lab. He finished undergraduate in the University of California, Santa Barbara (double major in Geography and Physics). He is interested in understanding and characterizing the socioeconomic and health impacts of natural hazards with geospatial methods.
+
+- name: Jiacheng Zhou
+  role: student
+  status: current
+  id: jiacheng
+  mugshot: jiacheng.png
+  blurb: is a PhD student at STAR lab. He joined the lab in Fall 2022 from Boston University. His topic is GeoAI for environmental health and public health. 
+
 - name: Congliang Zhou
   role: student
   status: alumni
@@ -15,17 +43,17 @@
 
 - name: Jimin Chun
   role: student
-  status: current
+  status: alumni
   id: jimin
   mugshot: tt.jpg
-  blurb: is a PhD student in the Department of Geosciences at Texas Tech. With a background in atmospheric science, her dissertation is to investigate the impact of land surface changes (e.g., land use and land cover) on atmospheric dynamics across multiple geographic scales. 
+  blurb: was a PhD student in the Department of Geosciences at Texas Tech. With a background in atmospheric science, her dissertation is to investigate the impact of land surface changes (e.g., land use and land cover) on atmospheric dynamics across multiple geographic scales. 
 
 - name: Chan-mi Lee
   role: student
   status: alumni
   id: chanmi
   mugshot: chanmi.jpg
-  blurb: is a Master student in the Geography group of the Department of Geosciences at Texas Tech. She did her undergraduate in Geography at the University of Oklahoma. Her thesis work focuses on applications of GIS and geospatial technologies in environmental health. Currently PhD at Temple University
+  blurb: was a Master student in the Geography group of the Department of Geosciences at Texas Tech. She did her undergraduate in Geography at the University of Oklahoma. Her thesis work focuses on applications of GIS and geospatial technologies in environmental health. Currently PhD at Temple University
 
 - name: Naizhuo Zhao
   status: alumni
