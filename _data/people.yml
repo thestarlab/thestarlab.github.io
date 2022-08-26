@@ -11,7 +11,7 @@
   status: current
   id: andong
   mugshot: andong.png
-  blurb: is a postdoctoral researcher at STAR lab. He finished his PhD in Geography from Texas A&M University in 2021. His expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications (e.g., global changes and natural hazards). [More information is here](https://www.andongma.me/).
+  blurb: is a postdoctoral researcher at STAR lab. He finished his PhD in Geography from Texas A&M University in 2021. His expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications (e.g., global changes and natural hazards). Please see [his page](https://www.andongma.me/) for more details.
 
 - name: Guiye Li
   role: student
@@ -25,7 +25,7 @@
   status: current
   id: ryan
   mugshot: ryan.png
-  blurb: is a Master student at STAR lab. He finished undergraduate in the University of California, Santa Barbara (double major in Geography and Physics). He is interested in understanding and characterizing the socioeconomic and health impacts of natural hazards with geospatial methods.
+  blurb: is a Master student at STAR lab. He finished his undergraduate in the University of California, Santa Barbara (double majoring in Geography and Physics). He is interested in understanding and characterizing the socioeconomic and health impacts of natural hazards with geospatial methods.
 
 - name: Jiacheng Zhou
   role: student
