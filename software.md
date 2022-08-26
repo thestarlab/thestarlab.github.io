@@ -4,7 +4,7 @@ title: Software
 nav: software
 ---
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="col-xs-12 col-md-12" markdown="1">
 
 Here is a list of tools that we created, along with links to the
 [GitHub](http://www.github.com) projects. More is brewing in the house. 
