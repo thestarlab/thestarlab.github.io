@@ -6,12 +6,7 @@ title: Spatiotemporal Pattern Analysis & Research Laboratory
 
 <div class="row">
 
-<div class="col-md-12" markdown="1">
-<div> <img class="img-responsive" src="{{site.url}}/resources/showroom/CUB.jpg" title="CU Boulder"> </div>
-</div>
-
 <div class="col-md-12 lead" markdown="1">
-
 Spatiotemporal Pattern Analysis & Research Laboratory (or **STAR lab**)
 focuses on the developments and applications of formal (i.e., statistical
 and computational) and technical methodologies to study complex
@@ -19,9 +14,11 @@ spatiotemporal patterns and dynamics in natural, social and technical
 systems. Please read more about our work ([research](research) and
 [papers](papers)), [who we are](people), and [possible
 opportunities](opportunities).  
-
 </div>
 
+<div class="col-md-12" markdown="1">
+<div> <img class="img-responsive" src="{{site.url}}/resources/showroom/CUB.jpg" title="CU Boulder"> </div>
+</div>
 
 </div>
 
