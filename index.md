@@ -24,9 +24,6 @@ opportunities](opportunities).
 
 </div>
 
-</div>
-
-<div class="row">
 <div class="col-xs-9 col-md-9 col-lg-9" markdown="1">
 ## News & Events
  {% for post in site.posts limit:5 %}
