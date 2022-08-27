@@ -6,13 +6,13 @@ title: Spatiotemporal Pattern Analysis & Research Laboratory
 
 <div class="row">
 
-<div class="col-xs-12 col-col-md-12 lead">
-
+<div class="col-xs-12 col-md-12 col-lg-12 lead">
 <img class="img-responsive" src="{{site.url}}/resources/showroom/CUB.jpg" width="1600px" height="300px" title="CU Boulder"> 
-
+</div>
 </div>
 
-<div class="col-xs-12 col-md-12 lead" markdown="1">
+<div class="row">
+<div class="col-xs-12 col-md-12 col-lg-12 lead" markdown="1">
 
 Spatiotemporal Pattern Analysis & Research Laboratory (or **STAR lab**)
 focuses on the developments and applications of formal (i.e., statistical
@@ -27,14 +27,14 @@ opportunities](opportunities).
 </div>
 
 <div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-xs-9 col-md-9 col-lg-9" markdown="1">
 ## News & Events
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
   {% endfor %}
 </div>
 
-<div class="col-md-4 " markdown="1">
+<div class="col-xs-3 col-md-3 col-lg-3 " markdown="1">
 ## Connect with us 
 <div class="connect">
 {% include footer.html %}
