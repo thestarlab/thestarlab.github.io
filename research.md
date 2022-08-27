@@ -4,7 +4,7 @@ title: Research
 nav: research
 ---
 
-<!--<div class="col-xs-12 col-md-12 resobj" markdown="1"> -->
+<!--<div class="col-xs-12 col-md-12" markdown="1"> -->
 
 # Research Interests
 
