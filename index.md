@@ -24,14 +24,14 @@ opportunities](opportunities).
 
 </div>
 
-<div class="col-xs-9 col-md-9 col-lg-9" markdown="1">
+<div class="col-xs-8 col-md-8 col-lg-9" markdown="1">
 ## News & Events
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
   {% endfor %}
 </div>
 
-<div class="col-xs-3 col-md-3 col-lg-3 " markdown="1">
+<div class="col-xs-4 col-md-4 col-lg-4" markdown="1">
 ## Connect with us 
 <div class="connect">
 {% include footer.html %}
