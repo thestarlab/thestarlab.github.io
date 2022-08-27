@@ -37,9 +37,7 @@ opportunities](opportunities).
 <div class="col-md-4 " markdown="1">
 ## Connect with us 
 <div class="connect">
-<small>
 {% include footer.html %}
-</small>
 </div>
 
 </div>
