@@ -25,11 +25,11 @@ opportunities](opportunities).
 </div>
 
 <div class="col-xs-8 col-md-8 col-lg-8" markdown="1">
-## News & Events
+## [News & Events](news)
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
   {% endfor %}
-<a href="{{site.url}}/news/">More...</a>
+  [More...](news)
 </div>
 
 <div class="col-xs-4 col-md-4 col-lg-4" markdown="1">
