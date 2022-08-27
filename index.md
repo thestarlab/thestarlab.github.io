@@ -29,6 +29,7 @@ opportunities](opportunities).
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
   {% endfor %}
+<a href="{{site.url}}/news/">More...</a>
 </div>
 
 <div class="col-xs-4 col-md-4 col-lg-4" markdown="1">

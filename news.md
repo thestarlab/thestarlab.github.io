@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-nav: people
+nav: 
 ---
 
 <div class="col-md-12" markdown="1">
@@ -9,5 +9,4 @@ nav: people
  {% for post in site.posts %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
   {% endfor %}
-<a href="{{site.url}}/news/">More...</a>
 </div>
