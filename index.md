@@ -24,7 +24,7 @@ opportunities](opportunities).
 
 </div>
 
-<div class="col-xs-8 col-md-8 col-lg-9" markdown="1">
+<div class="col-xs-8 col-md-8 col-lg-8" markdown="1">
 ## News & Events
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
