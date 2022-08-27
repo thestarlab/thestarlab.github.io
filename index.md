@@ -9,7 +9,7 @@ title: Spatiotemporal Pattern Analysis & Research Laboratory
 <div class="col-xs-12 col-col-md-12" markdown="1">
 
 <img class="img-responsive" src="{{site.url}}/resources/showroom/CUB.jpg" width="1600"
-height="400" title="CU Boulder"> 
+height="300" title="CU Boulder"> 
 
 </div>
 
@@ -28,22 +28,23 @@ opportunities](opportunities).
 </div>
 
 <div class="row">
-<div class="col-md-8" markdown="1">
+<div class="col-md-10" markdown="1">
 ## News & Events
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a><br />
   {% endfor %}
 </div>
 
-<div class="col-md-4 " markdown="1">
+<div class="col-md-2 " markdown="1">
 ## Connect with us 
 <div class="connect">
+<small>
 {% include footer.html %}
+</small>
 </div>
 
 </div>
 
-</div>
 
 
 
