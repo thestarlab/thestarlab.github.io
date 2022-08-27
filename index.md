@@ -6,7 +6,7 @@ title: Spatiotemporal Pattern Analysis & Research Laboratory
 
 <div class="row">
 
-<div class="col-xs-12 col-col-md-12" markdown="1">
+<div class="col-xs-12 col-col-md-12 lead">
 
 <img class="img-responsive" src="{{site.url}}/resources/showroom/CUB.jpg" width="1600px" height="300px" title="CU Boulder"> 
 
