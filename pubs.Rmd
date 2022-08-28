@@ -1,0 +1,29 @@
+---
+title: Papers
+output: 
+  md_document
+---
+
+```{r echo=FALSE,warning=FALSE,message=FALSE}
+library(RefManageR)
+```
+
+<div class="col-md-12" markdown="1">
+
+[Google Scholar Page](https://scholar.google.com/citations?user=9M4g4nUAAAAJ&hl=en)
+
+# Refereed Academic Journal Articles 
+
+```{r echo=FALSE, results="asis",comment=FALSE, warning=FALSE}
+file_journals <- suppressMessages(ReadBib("pubs.bib"))
+dates <- unlist(unique(file_journals$year))[order(unlist(unique(file_journals$year)), decreasing = TRUE)]
+
+for (date in dates) {
+  cat(paste0("## ", date), "\n")
+  print(file_journals[list(year=date)], 
+        .opts = list(style="markdown", bib.style ="authoryear", max.names = 10, dashed = FALSE)
+        )
+  cat("\n")
+}
+```
+</div>
