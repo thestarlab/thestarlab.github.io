@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning for Geospatial Uncertainty Modeling
 ---
 
-# NSF:  Deep Learning in Geospatial Uncertainty Modeling 
+# [NSF:  Deep Learning in Geospatial Uncertainty Modeling](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026331&HistoricalAwards=false)
 
 This NSF-funded project will contribute new statistical methods and tools
 for the analysis of complex and incompatible geospatial data to advance
@@ -42,4 +42,14 @@ uncertainty of land cover changes and the impact on atmospheric models.
 
 ## Publication
 
+Cao, G. (2022). “Deep Learning of Big Geospatial Data: Challenges and Opportunities”. In: New Thinking in GIScience, pp. 159-169.
+
+Cao, G. and B. Buttenfield (2022). “Pattern Recognition and Matching”. In: The Geographic Information Science & Technology Body of Knowledge (2nd Quarter 2022 Edition).
+
+Cao, G. and N. Zhao (2021). “Integrating Remote Sensing and Social Sensing to Examine Socioeconomic Dynamics: A Case Study of Twitter and Nighttime Light Imagery”. In: Urban Remote Sensing: Monitoring, Synthesis, and Modeling in the Urban Environment, pp. 131-150.
+
+Neupane, J., W. Guo, G. Cao, F. Zhang, L. Slaughter, and S. Deb (2022). “Spatial patterns of soil microbial communities and implications for precision soil management at the field scale”. In: Precision Agriculture 23.3, pp. 1008-1026.
+
 ## Software
+
+- Under development ...
