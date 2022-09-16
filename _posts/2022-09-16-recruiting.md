@@ -15,7 +15,7 @@ and health insurance, contingent on good progress through the program.
 Qualified candidates should have a degree in Geography, Statistics, Computer Science or a related discipline, and expertise in geographic information
 system (GIS) and remote sensing. Preference will be given to applicants
 with strong quantitative backgrounds and programming experiences in machine
-learning or geospatial data analysis. The stipend for this position is
+learning or geospatial data analysis. Students from underrepresented groups are particularly encouraged to apply. The stipend for this position is
 competitive, and the tuition is covered. If interested, please send a CV or
 inquires to Dr. Guofeng Cao ([guofeng.cao@colorado.edu](mailto:guofeng.cao@colorado.edu)). Applications are
 due on `December 1st, 2022`. Information about how to apply can be found
