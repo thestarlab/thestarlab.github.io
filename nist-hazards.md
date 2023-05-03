@@ -11,11 +11,11 @@ the past windstorm events.
 
 ## Windstorm Events
 
-1. (Hurricane Harvey)[https://www.spatstat.com/NIST/HarrisHarvey.html] (August, 2017)
+1. [Hurricane Harvey](https://www.spatstat.com/NIST/HarrisHarvey.html) (August, 2017)
 
-2. (Texas Dallas Tornado)[https://www.spatstat.com/NIST/DallasTornado.html] (October 2019)
+2. [Texas Dallas Tornado](https://www.spatstat.com/NIST/DallasTornado.html) (October 2019)
 
-3. (Tennessee Nashville Tornado)[https://www.spatstat.com/NIST/NashvilleTornadoMar2020.html] (March 2020)
+3. [Tennessee Nashville Tornado](https://www.spatstat.com/NIST/NashvilleTornadoMar2020.html) (March 2020)
 
-4. (Alabama Birmingham Tornado)[https://www.spatstat.com/NIST/AlabamaBirmingham.html](March 2021)
+4. [Alabama Birmingham Tornado](https://www.spatstat.com/NIST/AlabamaBirmingham.html) (March 2021)
 
