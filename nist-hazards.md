@@ -2,6 +2,7 @@
 layout: page
 title: Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms
 ---
+# NIST: Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms
 
 The objective of the NIST-funded research project is to develop innovative methods for measuring and modeling short-term and long-term social and health effects of windstorms and their interdependence with built environment. Employing an integrated, interdisciplinary approach, we aim to advance understanding of the fundamental processes associated with natural hazards. 
 
