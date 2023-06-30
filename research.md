@@ -43,9 +43,9 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 
 + CU Internal:  Understanding Social Dynamics with Location-Based Social Media (2022-2023), $15k, Sole PI
 
-+ NSF:  [Deep Learning in Geospatial Uncertainty Modeling](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026331&HistoricalAwards=false) (2020-2024), $265,058, Sole PI
++ NSF:  [Deep Learning in Geospatial Uncertainty Modeling](../nsf-uncertainty) (2020-2024), $265,058, Sole PI
 
-+ DOC NIST: Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms (2019-2022), $667,024, Co-PI (with PI: D. Liang)
++ DOC NIST: [Innovative Measurement and Modeling of Dynamical Social and Health Effects of Windstorms](../nist-hazards) (2019-2022), $667,024, Co-PI (with PI: D. Liang)
 
 + USGS: Toward Near Real-time Monitoring and Characterization of Land Surface Change for the Conterminous US (2017-2022), $1,062,069, Co-I (with PI: Z. Zhu)
 
