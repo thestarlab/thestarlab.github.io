@@ -13,6 +13,13 @@ in statistics or programming is always a plus, but not a requirement.
 
 # Current Opportunities
 
+## Postdoc
+
+We are currently looking for a postdoc with GeoAI/spatial statistics
+background working on a USDA project. Please [use this
+link](https://jobs.colorado.edu/jobs/JobDetail/Postdoctoral-research-associate/51359)
+for full details and submitting an application. 
+
 ## Graduate students
 
 We are always looking for motivated and talented graduate students that are
