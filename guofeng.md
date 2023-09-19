@@ -29,7 +29,7 @@ Office: 201A Guggenheim
 ## Positions
 - Assistant Professor, [Department of Geography](https://www.colorado.edu/geography/), Aug. 2020 - 
 - Adjunct Faculty, [Department of Geosciences](http://www.geosciences.ttu.edu), Aug. 2020 - 
-- Assistant/Associate Professor, [Department of Geosciences](http://www.geosciences.ttu.edu), Aug. 2013 - Aug. 2020
+- Assistant/Associate Professor (with tenure), [Department of Geosciences](http://www.geosciences.ttu.edu), Aug. 2013 - Aug. 2020
 - Director, [Center for Geospatial Technology](http://www.gis.ttu.edu), Oct. 2015 -
 - Founding Director, [Spatiotemporal Pattern Analysis & Research Laboratory]({{site.url}}/), Aug. 2013 - 
 - Team Leader, [SuperMap Software](http://www.supermap.com/en), 2002-2006
