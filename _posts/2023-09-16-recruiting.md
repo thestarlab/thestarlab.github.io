@@ -5,7 +5,7 @@ author: Guofeng
 paper: 
 ---
 
-We are seeking PhD students starting as early as Fall 2023 to develop new
+We are seeking PhD students starting as early as Fall 2024 to develop new
 statistics and machine learning methods of big spatiotemporal data for
 innovative applications in natural hazards, climate change, land surface
 changes and public health. Students will be funded via research and
@@ -18,7 +18,7 @@ with strong quantitative backgrounds and programming experiences in machine
 learning or geospatial data analysis. Students from underrepresented groups are particularly encouraged to apply. The stipend for this position is
 competitive, and the tuition is covered. If interested, please send a CV or
 inquires to Dr. Guofeng Cao ([guofeng.cao@colorado.edu](mailto:guofeng.cao@colorado.edu)). Applications are
-due on `December 1st, 2022`. Information about how to apply can be found
+due on `December 1st, 2023`. Information about how to apply can be found
 here: [Begin your application
 process](https://www.colorado.edu/graduateschool/admissions/how-to-apply)
 
