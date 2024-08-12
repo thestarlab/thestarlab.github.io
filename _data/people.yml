@@ -6,12 +6,34 @@
   mugshot: guofeng.jpg 
   blurb: is a GIS professor at the [Department of Geography at CU Boulder](https://www.colorado.edu/geography/), also the director of STAR lab. His research primarily focuses on developing statistical methods and high performance computing methods to characterize and model spatial and spatiotemporal patterns. He was broadly trained in earth sciences, computer science, applied statistics, geographic information science and remote sensing. He also has several years of experiences in software industry before moving back to academia. 
 
-- name: Andong Ma
+
+- name: Di Wu
   role: postdoc
   status: current
+  id: di
+  mugshot: tt.png
+  blurb: is a postdoctoral researcher at STAR lab. She finished her PhD in Geography from Southern Illinois University in 2024. Her expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications (e.g., global changes and natural hazards). 
+
+- name: Andong Ma
+  role: postdoc
+  status: alumni
   id: andong
   mugshot: andong.png
-  blurb: is a postdoctoral researcher at STAR lab. He finished his PhD in Geography from Texas A&M University in 2021. His expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications (e.g., global changes and natural hazards). Please see [his page](https://www.andongma.me/) for more details.
+  blurb: was a postdoctoral researcher at STAR lab. He finished his PhD in Geography from Texas A&M University in 2021. His expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications (e.g., global changes and natural hazards). Please see [his page](https://www.andongma.me/) for more details. Currently a visiting assistant professor at Texas A&M University.
+
+- name: Yangsicheng Zhang
+  role: student
+  status: current
+  id: zhou
+  mugshot: tt.jpg
+  blurb: is a PhD student at STAR lab. She joined the lab in Fall 2024 and her topic is to understand land surface changes with time series of satellite images. 
+
+- name: Zhou Yu 
+  role: student
+  status: current
+  id: zhou
+  mugshot: zhou.jpg
+  blurb: is a PhD student at STAR lab. He joined the lab in Fall 2023 from Cornell University. His topic is to develop new statistical and deep learning methods to model and understand spatiotemporal extremes in climate sciences.
 
 - name: Guiye Li
   role: student
@@ -39,7 +61,7 @@
   status: alumni
   id: congliang
   mugshot: congliang.jpg
-  blurb: was a Master student in the Department of Geosciences at Texas Tech. With a focus on geostatistics and remote sensing, his topic is to develop machine learning methods to understand the spatiotemporal dynamics in remote sensing imagery. Currently PhD at University of Florida.
+  blurb: was a Master student in the Department of Geosciences at Texas Tech. With a focus on geostatistics and remote sensing, his topic is to develop machine learning methods to understand the spatiotemporal dynamics in remote sensing imagery. PhD at University of Florida. Currently an assistant professor at Louisiana State University. 
 
 - name: Jimin Chun
   role: student
@@ -60,7 +82,7 @@
   role: postdoc
   id: naizhuo
   mugshot: naizhuo.jpg
-  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas State University in 2014, His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. Currently at McGill University 
+  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas State University in 2014, His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. Currently a professor at Northeastern University (of China).
 
 - name: Ying Liu 
   role: student
@@ -74,7 +96,7 @@
   status: alumni
   id: feixiong
   mugshot: tt.jpg
-  blurb: was a PhD student in the Department of Geosciences at Texas Tech. He had been working on the development of new spatiotemporal analytics for large-scale location-based social media data. He is currently taking leave at Alibaba.com
+  blurb: was a PhD student in the Department of Geosciences at Texas Tech. He had been working on the development of new spatiotemporal analytics for large-scale location-based social media data. Currently at Alibaba.com
 
 - name: Morgan Kraft 
   role: student
