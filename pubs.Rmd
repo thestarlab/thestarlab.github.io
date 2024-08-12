@@ -15,7 +15,7 @@ library(RefManageR)
 # Refereed Academic Journal Articles 
 
 ```{r echo=FALSE, results="asis",comment=FALSE, warning=FALSE}
-file_journals <- suppressMessages(ReadBib("pubs.bib"))
+file_journals <- suppressMessages(ReadBib("pubs2.bib"))
 dates <- unlist(unique(file_journals$year))[order(unlist(unique(file_journals$year)), decreasing = TRUE)]
 
 for (date in dates) {
