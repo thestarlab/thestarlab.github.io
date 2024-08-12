@@ -40,6 +40,11 @@ performances of the developed methods will be evaluated in two domain
 applications: spatiotemporal disease mapping in public health and modeling
 uncertainty of land cover changes and the impact on atmospheric models.
 
+## Personnel
+
+- Guofeng Cao (PI)
+- Guiye Li (PhD student)
+
 ## Publication
 
 Cao, G. (2022). “Deep Learning of Big Geospatial Data: Challenges and Opportunities”. In: New Thinking in GIScience, pp. 159-169.
