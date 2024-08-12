@@ -3,6 +3,31 @@ Page](https://scholar.google.com/citations?user=9M4g4nUAAAAJ&hl=en)
 
 # Refereed Academic Journal Articles
 
+## 2024
+
+Zhu, D. and G. Cao (2024). “Intelligent Spatial Prediction and
+Interpolation Methods”. In: *Handbook of Geospatial Artificial
+Intelligence*. CRC Press, pp. 121-150.
+
+## 2023
+
+Cong, Z., Z. Chen, D. Liang, W. Song, and G. Cao (2023).
+“Multidimensional tornado exposure and climate change risk perceptions”.
+In: *APHA 2023 Annual Meeting and Expo*. APHA.
+
+Huang, L., M. J. Willis, G. Li, T. C. Lantz, K. Schaefer, E. Wig, G.
+Cao, and K. F. Tiampo (2023). “Identifying active retrogressive thaw
+slumps from ArcticDEM”. In: *ISPRS Journal of Photogrammetry and Remote
+Sensing* 205, pp. 301-316.
+
+Xiao, W., J. Su, Y. Chen, and G. Cao (2023). “Cross-Scale Guided Fusion
+Transformer for Disaster Assessment Using Satellite Imagery”. In: *IEEE
+Transactions on Geoscience and Remote Sensing*.
+
+Ye, S., Z. Zhu, and G. Cao (2023). “Object-based continuous monitoring
+of land disturbances from dense Landsat time series”. In: *Remote
+Sensing of Environment* 287, p. 113462.
+
 ## 2022
 
 Cao, G. (2022). “Deep Learning of Big Geospatial Data: Challenges and
@@ -26,13 +51,18 @@ Agriculture* 23.3, pp. 1008-1026.
 
 Rabia, A. H., J. Neupane, Z. Lin, K. Lewis, G. Cao, and W. Guo (2022).
 “Principles and applications of topography in precision agriculture”.
-In: *Advances in Agronomy* 166, p. 143.
+In: *Advances in agronomy* 171, pp. 143-189.
+
+Zhu, D., S. Gao, and G. Cao (2022). “Towards the intelligent era of
+spatial analysis and modeling”. In: *Proceedings of the 5th ACM
+SIGSPATIAL international workshop on AI for geographic knowledge
+discovery*. , pp. 10-13.
 
 ## 2021
 
-Cao, G. and N. Zhao (2021). “Integrating Remote Sensing and Social
-Sensing to Examine Socioeconomic Dynamics: A Case Study of Twitter and
-Nighttime Light Imagery”. In: *Urban Remote Sensing: Monitoring,
+Cao, G. and N. Zhao (2021). “Integrating remote sensing and social
+sensing to examine socioeconomic dynamics: A case study of twitter and
+nighttime light imagery”. In: *Urban Remote Sensing: Monitoring,
 Synthesis, and Modeling in the Urban Environment*, pp. 131-150.
 
 Chen, Z., Z. Cong, D. Liang, and G. Cao (2021). “Age Differences in
@@ -44,6 +74,10 @@ J. Neupane, L. Zhe, and A. Raihan (2021). “Field-scale spatial
 variability of soil calcium in a semi-arid region: Implications for soil
 erosion and site-specific management”. In: *Pedosphere* 31.5, pp.
 705-714.
+
+Zhao, N., F. C. Hsu, G. Cao, and E. L. Samson (2021). “Improving
+accuracy of economic estimations with VIIRS DNB image products”. In:
+*Remote Sensing of Night-time Light*. Routledge, pp. 45-64.
 
 ## 2020
 
@@ -126,7 +160,7 @@ anomalous heat at the 2015 Pan American games in Toronto, Canada”. In:
 
 Liu, Y., G. Cao, N. Zhao, K. Mulligan, and X. Ye (2018). “Improve
 ground-level PM2. 5 concentration mapping using a random forests-based
-geostatistical approach”. In: *Environmental Pollution* 235, pp.
+geostatistical approach”. In: *Environmental pollution* 235, pp.
 272-282.
 
 Liu, Y., N. Zhao, J. K. Vanos, and G. Cao (2018). “Visualizing changes
@@ -153,15 +187,15 @@ pp. 2161-2172.
 Fisher-Phelps, M., G. Cao, R. M. Wilson, and T. Kingston (2017).
 “Protecting bias: across time and ecology, open-source bat locality data
 are heavily biased by distance to protected area”. In: *Ecological
-Informatics* 40, pp. 22-34.
+informatics* 40, pp. 22-34.
 
 Liu, Y., N. Zhao, J. K. Vanos, and G. Cao (2017). “Effects of synoptic
 weather on ground-level PM2. 5 concentrations in the United States”. In:
 *Atmospheric Environment* 148, pp. 297-305.
 
 Mehdipoor, H., J. K. Vanos, R. Zurita-Milla, and G. Cao (2017).
-“Emerging technologies for biometeorology”. In: *International journal
-of biometeorology* 61.1, pp. 81-88.
+“emerging technologies for biometeorology”. In: *International journal
+of biometeorology* 61, pp. 81-88.
 
 Yang, Z., L. H. Nguyen, J. Stuve, G. Cao, and F. Jin (2017). “Harvey
 flooding rescue in social media”. In: *2017 IEEE International
@@ -176,10 +210,6 @@ of synoptic weather on influenza infection incidences: a retrospective
 study utilizing digital disease surveillance”. In: *International
 Journal of Biometeorology*, pp. 1-16.
 
-Zhao, N., F. Hsu, G. Cao, and E. L. Samson (2017). “Improving accuracy
-of economic estimations with VIIRS DNB image products”. In:
-*International journal of remote sensing* 38.21, pp. 5899-5918.
-
 Zhao, N., Y. Liu, G. Cao, E. L. Samson, and J. Zhang (2017).
 “Forecasting China’s GDP at the pixel level using nighttime lights time
 series and population images”. In: *GIScience & Remote Sensing* 54.3,
@@ -192,12 +222,7 @@ Cao, G. (2016). “Modeling uncertainty in categorical fields”. In:
 and Technology: People, the Earth, Environment and Technology*,
 pp. 1-11.
 
-Liu, Y., T. Delahunty, N. Zhao, and G. Cao (2016a). “These lit areas are
-undeveloped: China’s urban extents and urban development patterns from
-thresholded nighttime light imagery”. In: *International Journal of
-Applied Earth Observation and Geoinformation*.
-
-Liu, Y., T. Delahunty, N. Zhao, and G. Cao (2016b). “These lit areas are
+Liu, Y., T. Delahunty, N. Zhao, and G. Cao (2016). “These lit areas are
 undeveloped: Delimiting China’s urban extents from thresholded nighttime
 light imagery”. In: *International Journal of Applied Earth Observation
 and Geoinformation* 50, pp. 39-50.
@@ -205,6 +230,10 @@ and Geoinformation* 50, pp. 39-50.
 Luo, F., G. Cao, K. Mulligan, and X. Li (2016). “Explore Spatiotemporal
 and Demographic Characteristics of Human Mobility via Twitter: A Case
 Study of Chicago”. In: *Applied Geography* 70, pp. 11-25.
+
+Wang, S., G. Cao, Z. Zhang, and Y. Zhao (2016). “8 A CyberGlS
+Environment for Analysis of”. In: *Advanced Location-Based Technologies
+and Services*, p. 187.
 
 ## 2015
 
@@ -329,11 +358,10 @@ Conference on Advances in Geographic Information Systems*. , pp.
 
 ## 2008
 
-Cao, G. and P. C. Kyriakidis (2008). “Combining transition probabilities
-in the prediction and simulation of categorical fields”. In:
-*Proceedings of the 8th international symposium on spatial accuracy
-assessment in natural resources and environmental sciences*. , pp.
-25-32.
+Cao, G. and P. Kyriakidis (2008). “Combining transition probabilities in
+the prediction and simulation of categorical fields”. In: *Proceedings
+of the 8th International Symposium on Spatial Accuracy Assessment in
+Natural Resources and Environmental Sciences, Shanghai*.
 
 ## 2007
 
@@ -347,6 +375,12 @@ LI, K., E. ZHONG, Z. ZENG, and G. CAO (2006). “An Optimal Path Algorithm
 Based on Hierarchically Structured Topographical Network \[J\]”. In:
 *Journal of Image and Graphics* 7, p. 016.
 
-Zhang, L., J. Zhu, Z. Zeng, and G. Cao (2006). “GRID Services for large
+ZHANG, L., J. ZHU, Z. ZENG, and G. CAO (2006). “GRID Services for large
 scale elevation derivatives computation”. In: *Geoinformation Science*
 8.2, pp. 14-16.
+
+## 2004
+
+Grejner-Brzezinska, D. and A. Kealy (2004). “Positioning and tracking
+approaches and technologies”. In: *Advanced Location-Based Technologies
+and Services*, p. 1.
