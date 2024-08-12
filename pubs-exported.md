@@ -378,9 +378,3 @@ Based on Hierarchically Structured Topographical Network \[J\]”. In:
 ZHANG, L., J. ZHU, Z. ZENG, and G. CAO (2006). “GRID Services for large
 scale elevation derivatives computation”. In: *Geoinformation Science*
 8.2, pp. 14-16.
-
-## 2004
-
-Grejner-Brzezinska, D. and A. Kealy (2004). “Positioning and tracking
-approaches and technologies”. In: *Advanced Location-Based Technologies
-and Services*, p. 1.
