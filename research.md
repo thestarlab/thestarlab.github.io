@@ -39,7 +39,7 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 
 ## Current Projects 
 
-+ NSF: [ATD: Collaborative Research: A Geostatistical Framework for Spatiotemporal Extremes](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2220529&HistoricalAwards=false) (2023-2026), $150k, PI 
++ NSF: [ATD: Collaborative Research: A Geostatistical Framework for Spatiotemporal Extremes](../nsf-extreme) (2023-2026), $150k, PI 
 
 + USDA:  Geospatial Artificial Intelligence for Spatiotemporal Modeling of Pest Insects (2022-2023), $100k, PI 
 
