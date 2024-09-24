@@ -39,6 +39,10 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 
 ## Current Projects 
 
++ USDA: Modeling Spatiotemporal Distribution of Mormon Crickets with Geospatial Artificial Intelligence (2024-2025), $134k, PI (with R. Srygley)
+
++ CU Internal: Understanding Community Disaster Resilience with GeoAI and Big Geospatial Data (2023-2024), $20k, Sole PI
+
 + NSF: [ATD: Collaborative Research: A Geostatistical Framework for Spatiotemporal Extremes](../nsf-extreme) (2023-2026), $150k, PI 
 
 + USDA:  Geospatial Artificial Intelligence for Spatiotemporal Modeling of Pest Insects (2022-2023), $100k, PI 
