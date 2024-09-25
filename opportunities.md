@@ -13,7 +13,7 @@ in statistics or programming is always a plus, but not a requirement.
 
 # Current Opportunities
 
-## Postdoc
+## ~~Postdoc (filled)~~
 
 We are currently looking for a postdoc with GeoAI/spatial statistics
 background working on a USDA project. Please [use this
