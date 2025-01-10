@@ -39,6 +39,8 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 
 ## Current Projects 
 
++ NASA: Understanding the effects of agricultural land use transformations on weather dynamics in southern high plains (2025-2028), $740k, PI (with X. Song and R. Abolafia-Rosenzweig)
+
 + USDA: Modeling Spatiotemporal Distribution of Mormon Crickets with Geospatial Artificial Intelligence (2024-2025), $134k, PI (with R. Srygley)
 
 + CU Internal: Understanding Community Disaster Resilience with GeoAI and Big Geospatial Data (2023-2024), $25k, Sole PI
