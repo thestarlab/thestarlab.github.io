@@ -66,7 +66,7 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 
 + Texas Tech: Story Maps of Humanitarian Projects around the World (2017-2018), $90,000, Co-PI (with PI: P. Solis)
 
-+ USAID: Mappers Without Borders (2015-2020), $990,000, Co-PI (with PI: P. Solis)
++ USAID: YouthMappers (2015-2020), $990,000, Co-PI (with PI: P. Solis)
 
 + USDA: Development of a GIS Model to Project and Map Future Water Availability (2015-2016), $119,895, Co-PI (with PI: K. Mulligan)
 
