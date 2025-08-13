@@ -27,7 +27,7 @@ Office: 201A Guggenheim
 <div class="col-md-8" markdown="1">
 
 ## Positions
-- Assistant Professor, [Department of Geography](https://www.colorado.edu/geography/), Aug. 2020 - 
+- Associate Professor, [Department of Geography](https://www.colorado.edu/geography/), Aug. 2025 - 
 - Adjunct Faculty, [Department of Geosciences](http://www.geosciences.ttu.edu), Aug. 2020 - 
 - Assistant/Associate Professor (with tenure), [Department of Geosciences](http://www.geosciences.ttu.edu), Aug. 2013 - Aug. 2020
 - Director, [Center for Geospatial Technology](http://www.gis.ttu.edu), Oct. 2015 -
