@@ -313,9 +313,13 @@ ul.nav {
   height: auto;
 }
 .person-photo {
-  width: 160px;
-  height: 160px;
+  display: block;
+  width: 100%;
+  max-width: 160px;
+  height: auto;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
+  margin: 0 auto;
 }
 .pi {
   font-weight: 600;
@@ -390,7 +394,6 @@ ul.nav {
   }
 
   .person-photo {
-    width: 96px;
-    height: 96px;
+    max-width: 104px;
   }
 }
