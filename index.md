@@ -22,7 +22,7 @@ geospatial solutions to industry and government partners](work-with-us).
 
 </div>
 
-<div class="col-xs-12 col-md-8 col-lg-8" markdown="1">
+<div class="col-xs-12 col-md-8 col-lg-8 home-panel" markdown="1">
 ## [News & Events](news)
  {% for post in site.posts limit:5 %}
   <b>{{ post.date | date: '%B %d, %Y' }}</b>: <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br />
@@ -30,7 +30,7 @@ geospatial solutions to industry and government partners](work-with-us).
   [More...](news)
 </div>
 
-<div class="col-xs-12 col-md-4 col-lg-4" markdown="1">
+<div class="col-xs-12 col-md-4 col-lg-4 home-panel" markdown="1">
 ## Connect with us 
 <div class="connect">
 {% include footer.html %}

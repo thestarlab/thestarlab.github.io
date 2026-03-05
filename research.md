@@ -9,17 +9,16 @@ nav: research
 # Research Interests
 
 Our research is characterized by an interdisciplinary perspective on
-**geographic information science** driven by the advances of artificial
-intelligence, machine learning, earth observations (e.g., remote sensing
+**geospatial science** driven by the advances of machine
+intelligence (e.g., GeoAI), earth observations (e.g., remote sensing
 and social sensing) and computational science. We are particularly
 interested in developing advanced quantitative methods (i.e., AI,
 statistical and computational methods) and software tools to model and
-communicate the complex spatiotemporal patterns buried in the sea of messy
+communicate the complex spatiotemporal patterns buried in the sea of 
 geospatial data to support uncertainty-aware knowledge discovery and
 decision making. We work closely with domain scientists to tackle the
 challenges in environmental sciences, climate science, environmental
-health, public health and social sciences. See below for the current and
-completed projects.
+health, and social sciences. See below for the current and completed projects.
 
 <!--Particularly, we focus on the development of statistical and
 computational methodologies for (a) integrating **heterogeneous sources of
@@ -41,7 +40,7 @@ building geospatial-enabled **cyberinfrastructure** for domain scientists.
 
 + NASA: Understanding the effects of agricultural land use transformations on weather dynamics in southern high plains (2025-2028), $740k, PI (with X. Song and R. Abolafia-Rosenzweig)
 
-+ USDA: [Modeling Spatiotemporal Distribution of Mormon Crickets with Geospatial Artificial Intelligence](https://www.spatstat.com/Bayesian_SDM_MC/MC.html) (2024-2025), $134k, PI (with R. Srygley)
++ USDA: [Modeling Spatiotemporal Distribution of Mormon Crickets with Geospatial Artificial Intelligence](../usda-mormon) (2024-2025), $134k, PI (with R. Srygley)
 
 + CU Internal: Understanding Community Disaster Resilience with GeoAI and Big Geospatial Data (2023-2024), $25k, Sole PI
 

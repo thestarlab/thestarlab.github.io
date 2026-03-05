@@ -63,6 +63,16 @@ body {
       text-decoration-color: @high;
     }
   }
+  .home-panel {
+    margin-top: 0.24em;
+    h2 {
+      margin-top: 0 !important;
+      margin-bottom: 0.45em;
+    }
+  }
+  .lead p {
+    margin-bottom: 0.48em;
+  }
 }
 
 @media all and (max-width: 1500px) { /* screen size until 1200px */
@@ -147,17 +157,19 @@ font-size:1.1em;
   //color: white;
   color: @gold;
   border: none;
-  height: @bheight;
+  min-height: @bheight;
+  height: auto;
   //font-size: 18px;
-  font-size: 1.16em;
+  font-size: clamp(1.06em, 0.55vw + 0.84em, 1.19em);
 }
 
 .navbar-brand {
-  font-size: 1.16em !important;
+  font-size: clamp(1.1em, 0.45vw + 0.9em, 1.2em) !important;
   }
 
 .navbar-header {
-  font-size: 1.16em !important;
+  position: relative;
+  font-size: clamp(1.1em, 0.45vw + 0.9em, 1.2em) !important;
   a {
     //color: white !important;
     color: @gold !important;
@@ -275,7 +287,7 @@ margin-bottom: 0.5em;
 ul.nav {
   li {
     a {
-      padding: @naip;
+      padding: @naip clamp(10px, 1.2vw, 20px);
       line-height: @nalh;
     }
     &.active {
@@ -384,21 +396,30 @@ ul.nav li.work-with-us.active a .nav-cta {
   }
 
   .navbar-brand {
-    height: auto;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    display: flex;
+    align-items: center;
+    height: 56px;
+    padding: 0;
     font-size: 1.08em !important;
+    line-height: 1;
+
+    .display-2 {
+      display: block;
+      line-height: 1.05;
+    }
   }
 
   .navbar-header {
     margin-left: 0 !important;
     padding: 8px 0 8px 62px;
-    line-height: 36px;
+    line-height: 1;
+    min-height: 72px;
 
     img {
       height: 56px;
       margin-left: -62px;
-      top: 4px !important;
+      top: 50% !important;
+      transform: translateY(-50%);
     }
   }
 

@@ -9,7 +9,7 @@ nav: software
 Here is a list of tools that we created, along with links to the
 [GitHub](https://www.github.com) projects. More is brewing in the house. 
 
-# Selected Products
+# Selected Software Products
 
 - [SMC](https://github.com/surfcao/scm) is a Matlab/Octave toolbox for
   statistical modeling of spatial categorical data (e.g., land use, land
