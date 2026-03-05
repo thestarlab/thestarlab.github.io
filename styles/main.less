@@ -88,21 +88,8 @@ body {
         font-size: 10pt; 
         }
     }
-@media all and (max-width: 991px) {
-  .content {
-    padding-top: 120px;
-  }
-}
-@media all and (max-width: 767px) {
-  .content {
-    padding-top: 100px;
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
 .content{
-  box-sizing: content-box;
+  box-sizing: border-box;
   padding: @ipad 0;
   //padding-top: 200px;
   padding-top: 150px;
@@ -349,7 +336,21 @@ ul.nav {
   height: 14em;
 }
 
+@media all and (max-width: 991px) {
+  .content {
+    padding-top: 120px;
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+}
+
 @media all and (max-width: 767px) {
+  .content {
+    padding-top: 104px;
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
   .navbar-default {
     height: auto;
     min-height: 64px;
