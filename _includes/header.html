@@ -10,10 +10,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
 
 <!-- LESS stylesheet -->
-<link rel="stylesheet/less" type="text/css" href="{{ '/styles/main.less' | relative_url }}?v={{ site.time | date: '%s' }}" />
-<script>
-window.less = { env: "development", useFileCache: false };
-</script>
+<link rel="stylesheet/less" type="text/css" href="{{ '/styles/main.less' | relative_url }}?v={{ site.github.build_revision | default: 'dev' }}" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/4.2.0/less.min.js"></script>
 
 <!-- favicon -->

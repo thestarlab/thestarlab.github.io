@@ -1,14 +1,23 @@
 "use strict";
 
 (function () {
-  var MOBILE_WIDTH = 1024;
   var navResizeObserver;
+
+  function isCollapsedNav() {
+    var navToggle = document.getElementById("nav-toggle");
+    if (!navToggle) {
+      return false;
+    }
+
+    return window.getComputedStyle(navToggle).display !== "none";
+  }
 
   function updateContentOffset() {
     var nav = document.getElementById("nav");
     var content = document.querySelector(".content");
     var navPrimary = document.getElementById("nav-primary");
     var header = nav ? nav.querySelector(".navbar-header") : null;
+    var collapsed = isCollapsedNav();
     var navHeight = 0;
     var navTop;
     var navBottom;
@@ -24,8 +33,8 @@
 
     navTop = nav.getBoundingClientRect().top;
 
-    // Keep content offset stable on mobile when the menu drawer is expanded.
-    if (window.innerWidth <= MOBILE_WIDTH && navPrimary && navPrimary.classList.contains("in") && header) {
+    // Keep content offset stable when the collapsed nav drawer is expanded.
+    if (collapsed && navPrimary && navPrimary.classList.contains("in") && header) {
       navBottom = header.getBoundingClientRect().bottom;
       navHeight = navBottom - navTop;
     } else {
@@ -42,7 +51,7 @@
       navHeight = measuredBottom - navTop;
     }
 
-    gap = window.innerWidth <= MOBILE_WIDTH ? 16 : 20;
+    gap = collapsed ? 16 : 20;
     content.style.paddingTop = Math.ceil(Math.max(navHeight, 0) + gap) + "px";
   }
 
@@ -86,14 +95,14 @@
 
     navPrimary.querySelectorAll("a").forEach(function (link) {
       link.addEventListener("click", function () {
-        if (window.innerWidth <= MOBILE_WIDTH) {
+        if (isCollapsedNav()) {
           closeMobileNav();
         }
       });
     });
 
     window.addEventListener("resize", function () {
-      if (window.innerWidth > MOBILE_WIDTH) {
+      if (!isCollapsedNav()) {
         closeMobileNav();
       }
       updateContentOffset();
@@ -127,8 +136,7 @@
     bindMobileToggle();
     bindNavResizeObserver();
     updateContentOffset();
-    window.setTimeout(updateContentOffset, 150);
-    window.setTimeout(updateContentOffset, 600);
+    window.requestAnimationFrame(updateContentOffset);
   });
   window.addEventListener("load", updateContentOffset);
 })();
