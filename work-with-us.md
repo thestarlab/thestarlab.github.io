@@ -12,18 +12,19 @@ and longer collaborative research programs. Our team brings decades of industry 
 
 ## Geospatial expertise and experience
 
-We offer strong technical depth and applied delivery experience in:
+We offer cutting edge GeoAI, strong technical depth and applied delivery experience in:
 
-- Geospatial data science, spatial statistics/machine learning, and spatiotemporal modeling
-- GeoAI for remote sensing, environmental monitoring, and risk analysis
+- Geospatial data science, GeoAI, and spatiotemporal modeling
+- GeoAI for natural resources, environmental monitoring, and emergency
+  management
 - Data-intensive or computation-intensive geospatial workflows for research and operational settings
 
 ## Open-source geospatial capabilities
 
-We provide open-source geospatial solutions for:
+We provide industry-grade, cost-effective geospatial solutions for:
 
-- Geospatial analysis, mapping, and reproducible geospatial pipelines
-- Custom tools and decision-support applications built on open technologies
+- Scalable geospatial analysis, mapping, and publishing pipelines
+- Custom tools and decision-support applications built on industry-grade, open technologies
 - Rapid development of practical prototypes that can scale into production
 
 ## Training and consulting

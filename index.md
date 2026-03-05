@@ -14,11 +14,10 @@ title: Spatiotemporal Pattern Analysis & Research Laboratory
 <div class="row">
 <div class="col-xs-12 col-md-12 col-lg-12 lead" markdown="1">
 
-Spatiotemporal Pattern Analysis & Research Laboratory (or **STAR Lab**)
+Spatiotemporal Pattern Analysis & Research Laboratory (or **STARlab**)
 focuses on developing formal and technical (e.g., AI, computational and statistical) methodologies to study complex spatiotemporal patterns and dynamics in natural, social and technical systems. Please read more about our work ([research](research) and
 [papers](papers)), [who we are](people), and [possible
-opportunities](opportunities). We also [provide consultant, and rapid, open source
-geospatial solutions to industry and government partners](work-with-us).  
+opportunities](opportunities). We also [provide cost-effective geospatial solutions to industry and government partners](work-with-us).  
 
 </div>
 
