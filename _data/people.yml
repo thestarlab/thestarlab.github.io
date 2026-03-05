@@ -12,7 +12,7 @@
   status: current
   id: di
   mugshot: di.jpg
-  blurb: is a postdoctoral researcher at STAR lab. She finished her PhD in Geography from Southern Illinois University in 2024. Her expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications. 
+  blurb: is a postdoctoral researcher at STAR lab. She finished her PhD in Geography from Southern Illinois University in 2024. Her expertise is deep learning and remote sensing. She is developing new machine learning methods to understand remote sensing images for environmental and climate applications.
 
 - name: Andong Ma
   role: postdoc
@@ -24,14 +24,14 @@
 - name: Yangchengsi Zhang
   role: student
   status: current
-  id: zhou
+  id: yangchengsi
   mugshot: yangchengsizhang.jpg
   blurb: is a PhD student at STAR lab. She joined the lab in Fall 2024 and her topic is to understand land surface changes with time series of satellite images. 
 
 - name: Zhou Yu 
   role: student
   status: current
-  id: zhou
+  id: zhouyu
   mugshot: zhou.jpg
   blurb: is a PhD student at STAR lab. He joined the lab in Fall 2023 from Cornell University. His topic is to develop new statistical and deep learning methods to model and understand spatiotemporal extremes in climate sciences.
 
@@ -47,7 +47,7 @@
   status: current
   id: ryan
   mugshot: ryan.png
-  blurb: is a Master student at STAR lab. He finished his undergraduate in the University of California, Santa Barbara (double majoring in Geography and Physics). He is interested in understanding and characterizing the socioeconomic and health impacts of natural hazards with geospatial methods.
+  blurb: is a Master student at STAR lab. He finished his undergraduate studies at the University of California, Santa Barbara (double majoring in Geography and Physics). He is interested in understanding and characterizing the socioeconomic and health impacts of natural hazards with geospatial methods.
 
 - name: Jiacheng Zhou
   role: student
@@ -75,21 +75,21 @@
   status: alumni
   id: chanmi
   mugshot: chanmi.jpg
-  blurb: was a Master student in the Geography group of the Department of Geosciences at Texas Tech. She did her undergraduate in Geography at the University of Oklahoma. Her thesis work focuses on applications of GIS and geospatial technologies in environmental health. Currently PhD at Temple University
+  blurb: was a Master student in the Geography group of the Department of Geosciences at Texas Tech. She did her undergraduate in Geography at the University of Oklahoma. Her thesis work focuses on applications of GIS and geospatial technologies in environmental health. Currently a PhD student at Temple University.
 
 - name: Naizhuo Zhao
   status: alumni
   role: postdoc
   id: naizhuo
   mugshot: naizhuo.jpg
-  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas State University in 2014, His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. Currently a professor at Northeastern University (of China).
+  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas State University in 2014. His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. Currently a professor at Northeastern University (of China).
 
 - name: Ying Liu 
   role: student
   status: alumni
   id: ying
   mugshot: ying.jpg
-  blurb: was a PhD student in the Department of Geosciences at Texas Tech. With a focus on environmental remote sensing, her dissertation topic was to develop spatiotemporal methodologies to understand the human and natural factors in environmental pollution distribution, and evaluate the associated impact on public health outcomes. Currently at University of Montreal
+  blurb: was a PhD student in the Department of Geosciences at Texas Tech. With a focus on environmental remote sensing, her dissertation topic was to develop spatiotemporal methodologies to understand the human and natural factors in environmental pollution distribution, and evaluate the associated impact on public health outcomes. Currently at the University of Montreal.
 
 - name: Feixiong Luo 
   role: student
@@ -103,7 +103,7 @@
   status: alumni
   id: morgan
   mugshot: morgan.jpg
-  blurb: was a Master student in the Geography group of Department of Geosciences at Texas Tech. His thesis topic as to investigate the bias and uncertainty issues of location-based social media (e.g., Twitter) in representing real-world social processes, and evaluate the possible consequences. 
+  blurb: was a Master student in the Geography group of Department of Geosciences at Texas Tech. His thesis topic was to investigate the bias and uncertainty issues of location-based social media (e.g., Twitter) in representing real-world social processes, and evaluate the possible consequences.
 
 - name: Ashley Morris
   role: student
@@ -117,7 +117,7 @@
   status: alumni
   id: wei
   mugshot: tt.jpg
-  blurb: is a PhD student in the Department of Computer Science at Texas Tech. He worked in STAR lab as a graduate research assistant during 2015-2016. He helped develop high performance data mining methods for location-based social media data.
+  blurb: was a PhD student in the Department of Computer Science at Texas Tech. He worked in STAR lab as a graduate research assistant during 2015-2016. He helped develop high performance data mining methods for location-based social media data.
 
 - name: Bo Zhong 
   role: visiting

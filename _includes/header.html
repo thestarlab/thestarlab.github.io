@@ -1,20 +1,21 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{{ site.title }} | {{ page.title }}</title>
+<meta name="description" content="{{ page.description | default: site.subtitle | escape }}" />
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<link rel="preconnect" href="https://ajax.googleapis.com" />
+<link rel="preconnect" href="https://maxcdn.bootstrapcdn.com" />
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" />
+<link rel="preconnect" href="https://d3js.org" />
 
 <!-- Font Awesome -->
-<!--
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
--->
-
-<!-- Font Awesome -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" defer></script>
 
 <!-- Slick, image carousel -->
 <!--
@@ -27,18 +28,18 @@
 -->
 
 <!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" defer></script>
 
 <!-- d3.js -->
-<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js" defer></script>
 
 <!-- LESS, because then I can push without compiling -->
-<link rel="stylesheet/less" type="text/css" href="{{site.url}}/styles/main.less" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/2.3.1/less.min.js"></script>
+<link rel="stylesheet/less" type="text/css" href="{{ '/styles/main.less' | relative_url }}" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/4.2.0/less.min.js"></script>
 
 <!-- favicon -->
-<link rel="shortcut icon" href="{{site.url}}/resources/favicon.ico" type="image/x-icon">
-<link rel="icon" href="{{site.url}}/resources/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="{{ '/resources/favicon.ico' | relative_url }}" type="image/x-icon" />
+<link rel="icon" href="{{ '/resources/favicon.ico' | relative_url }}" type="image/x-icon" />
 
 <!-- <script>
 var images = ['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg', '7.jpg', '8.jpg'];
@@ -48,7 +49,7 @@ $('html').css({'background-image': 'url(/resources/bg/' + images[Math.floor(Math
 <script type="text/javascript">
 var sc_project=6656709; var sc_invisible=1; var sc_security="57570c96"; </script>
 <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js"></script><noscript>
-<div class="statcounter"><a title="free analytics for godaddy" href="https://statcounter.com/godaddy_website_tonight/" target="_blank"><img class="statcounter"
+<div class="statcounter"><a title="free analytics for godaddy" href="https://statcounter.com/godaddy_website_tonight/" target="_blank" rel="noopener noreferrer"><img class="statcounter"
  src="https://c.statcounter.com/6656709/0/57570c96/1/"
  alt="free analytics for godaddy"></a></div>
 </noscript><!-- End of StatCounter Code -->

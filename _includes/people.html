@@ -1,11 +1,11 @@
 <div class="row">
 <div class="col-xs-5 col-md-2">
-	<img src="{{site.url}}/mugshots/{{ p.mugshot }}" class="img-circle" style="width: 160px; height: 160px"  />
+	<img src="{{site.url}}/mugshots/{{ p.mugshot }}" class="img-circle person-photo" alt="{{ p.name }}" loading="lazy" />
 </div>
 <div class="col-xs-7 col-md-10" markdown="1">
 {% if p.page %}
 <a href="{{site.url}}/{{p.id}}"><strong>{{ p.name }}</strong> </a>
-{{p.blurb}} Please see <a href="{{site.url}}/{{p.id}}"> his page </a> for more details.  
+{{p.blurb}} Please see <a href="{{site.url}}/{{p.id}}">their page</a> for more details.
 {% else %}
 <strong>{{ p.name }}</strong> {{p.blurb}}
 {% endif %}

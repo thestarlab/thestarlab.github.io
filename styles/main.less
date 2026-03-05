@@ -1,6 +1,6 @@
 @import "colors.less";
 
-@import url(http://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700,700italic|PT+Serif:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700,700italic|PT+Serif:400,400italic,700,700italic&display=swap);
 
 // Color palette
 //@high: rgb(74,205,176);
@@ -45,6 +45,7 @@ html {
 body {
   background: none;
   font-family: "PT Sans";
+  font-size: 18pt;
   min-height: 90%;
   height: 90%;
 }
@@ -69,18 +70,6 @@ body {
   }
 }
 
-@media all and (max-width: 2600px) { /* screen size until 1200px */
-    body {
-        //font-size: 1.8em; /* 1.5x default size */
-        font-size: 20pt;
-    }
-}
-@media all and (max-width: 2600px) { /* screen size until 1200px */
-    body {
-        //font-size: 1.8em; /* 1.5x default size */
-        font-size: 18pt;
-    }
-}
 @media all and (max-width: 1500px) { /* screen size until 1200px */
     body {
         //font-size: 1.5em; /* 1.5x default size */
@@ -99,6 +88,18 @@ body {
         font-size: 10pt; 
         }
     }
+@media all and (max-width: 991px) {
+  .content {
+    padding-top: 120px;
+  }
+}
+@media all and (max-width: 767px) {
+  .content {
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
 
 .content{
   box-sizing: content-box;
@@ -201,7 +202,7 @@ ul.nav {
   //background-color:@black;
   background-color:@cu-darkgrey;
   li {
-    a {
+    a {
       text-transform: lowercase;
       //color: fadeout(white, 20%) !important;
       color: fadeout(@gold, 20%) !important;
@@ -238,7 +239,7 @@ margin-bottom: 0.5em;
   //background-color: @gold;
   background-color: @medium;
     li {
-      a {
+      a {
         //color: fadeout(@medium, 40%) !important;
         //color: fadeout(@black, 40%) !important;
         color: fadeout(@cu-darkgrey, 40%) !important;
@@ -268,7 +269,7 @@ margin-bottom: 0.5em;
   }
   ul.nav {
     li {
-      a {
+      a {
         //color: fadeout(white, 20%) !important;
         color: fadeout(@gold, 20%) !important;
         &:hover {
@@ -291,7 +292,7 @@ margin-bottom: 0.5em;
 
 ul.nav {
   li {
-    a {
+    a {
       padding: @naip;
       line-height: @nalh;
     }
@@ -311,13 +312,18 @@ ul.nav {
   max-width: 100%;
   height: auto;
 }
+.person-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
 .pi {
   font-weight: 600;
   text-decoration: underline;
   text-decoration-color: #bbb;
 }
 
-.student {
+.student {
   text-decoration: underline;
   text-decoration-color: #bbb;
 }
@@ -337,4 +343,54 @@ ul.nav {
 .software-block, .resobj {
   display: block;
   height: 14em;
+}
+
+@media all and (max-width: 767px) {
+  .navbar-default {
+    height: auto;
+    min-height: 64px;
+  }
+
+  .navbar-brand {
+    height: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  .navbar-header {
+    margin-left: 0 !important;
+    padding: 8px 0 8px 62px;
+    line-height: 36px;
+
+    img {
+      height: 56px;
+      margin-left: -62px;
+      top: 4px !important;
+    }
+  }
+
+  .navbar-toggle {
+    margin-top: 14px;
+    margin-right: 10px;
+  }
+
+  .navbar-collapse {
+    border-top: 0;
+    box-shadow: none;
+  }
+
+  .navbar-fixed-top .navbar-collapse,
+  .navbar-fixed-bottom .navbar-collapse {
+    max-height: calc(100vh - 64px);
+  }
+
+  ul.nav li a {
+    padding: 12px 16px;
+    line-height: 1.4;
+  }
+
+  .person-photo {
+    width: 96px;
+    height: 96px;
+  }
 }
