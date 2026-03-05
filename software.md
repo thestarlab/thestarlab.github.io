@@ -4,10 +4,10 @@ title: Software
 nav: software
 ---
 
-<div class="col-xs-12 col-md-12" markdown="1">
+<div class="software-section" markdown="1">
 
 Here is a list of tools that we created, along with links to the
-[GitHub](http://www.github.com) projects. More is brewing in the house. 
+[GitHub](https://www.github.com) projects. More is brewing in the house. 
 
 # Selected Software Packages
 
@@ -25,7 +25,7 @@ also included in the toolbox.
 -->
 </div>
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="software-section" markdown="1">
 # Selected Datasets 
 - [Here](https://github.com/thestarlab/ChinaUrbanBoundary) is a times
   series of datasets (in ESRI shapefile) of Chinese urban boundaries for
@@ -50,7 +50,7 @@ also included in the toolbox.
 
 </div>
 
-<div class="pure-u-1 copy" markdown="1">
+<div class="software-section" markdown="1">
 # Latex Templates 
 - [Latex template for dissertation of University of California, Santa
   Barbara (UCSB)](https://github.com/surfcao/dissertation-template)
