@@ -1,7 +1,7 @@
 "use strict";
 
 (function () {
-  var MOBILE_WIDTH = 767;
+  var MOBILE_WIDTH = 1024;
   var navResizeObserver;
 
   function updateContentOffset() {

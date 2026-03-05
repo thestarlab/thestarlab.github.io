@@ -49,6 +49,13 @@ body {
 @nalh: 50px;
 @naip: 23px;
 @bheight: calc(2 * @naip + @nalh);
+// Banner typography tokens
+@nav-link-size-desktop: clamp(1.72rem, 0.8vw + 1.22rem, 2.24rem);
+@nav-brand-size-desktop: clamp(2.14rem, 1.12vw + 1.34rem, 2.82rem);
+@nav-link-size-collapsed: clamp(1.56rem, 0.72vw + 1.18rem, 1.96rem);
+@nav-brand-size-collapsed: clamp(1.74rem, 0.92vw + 1.22rem, 2.34rem);
+@nav-link-size-mobile: 1.46rem;
+@nav-brand-size-mobile: 1.64rem;
 
 // internal padding
 @ipad: 40px;
@@ -159,17 +166,16 @@ font-size:1.1em;
   border: none;
   min-height: @bheight;
   height: auto;
-  //font-size: 18px;
-  font-size: clamp(1.06em, 0.55vw + 0.84em, 1.19em);
+  font-size: @nav-link-size-desktop;
 }
 
 .navbar-brand {
-  font-size: clamp(1.1em, 0.45vw + 0.9em, 1.2em) !important;
+  font-size: @nav-brand-size-desktop !important;
   }
 
 .navbar-header {
   position: relative;
-  font-size: clamp(1.1em, 0.45vw + 0.9em, 1.2em) !important;
+  font-size: @nav-brand-size-desktop !important;
   a {
     //color: white !important;
     color: @gold !important;
@@ -187,6 +193,14 @@ font-size:1.1em;
     margin-left: -100px;
   }
   padding-left: 100px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  font-size: @nav-link-size-desktop !important;
+}
+
+.navbar-brand .display-2 {
+  font-size: @nav-brand-size-desktop !important;
 }
 
 ul.nav {
@@ -375,6 +389,105 @@ ul.nav li.work-with-us.active a .nav-cta {
   height: 14em;
 }
 
+@media all and (max-width: 1024px) {
+  .navbar-default {
+    height: auto;
+    min-height: 64px;
+  }
+
+  .navbar-header {
+    float: none;
+    display: flex;
+    align-items: center;
+    margin-left: 0 !important;
+    padding: 8px 12px;
+    line-height: 1;
+    min-height: 64px;
+  }
+
+  .navbar-left,
+  .navbar-right {
+    float: none !important;
+  }
+
+  .navbar-brand {
+    order: 1;
+    float: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    font-size: @nav-brand-size-collapsed !important;
+    line-height: 1;
+    max-width: calc(100% - 56px);
+
+    .display-2 {
+      display: block;
+      line-height: 1.05;
+      white-space: nowrap;
+      font-size: @nav-brand-size-collapsed !important;
+    }
+
+    img {
+      position: static;
+      height: 48px;
+      width: auto;
+      padding: 0;
+      margin: 0;
+      top: auto !important;
+      transform: none;
+    }
+  }
+
+  .navbar-toggle {
+    display: block;
+    order: 2;
+    float: none;
+    margin: 0 0 0 auto;
+    align-self: center;
+  }
+
+  .navbar-collapse {
+    border-top: 0;
+    box-shadow: none;
+  }
+
+  .navbar-fixed-top .navbar-collapse,
+  .navbar-fixed-bottom .navbar-collapse {
+    max-height: calc(100vh - 64px);
+  }
+
+  .navbar-collapse.collapse {
+    display: none !important;
+  }
+
+  .navbar-collapse.collapse.in {
+    display: block !important;
+    overflow-y: auto !important;
+  }
+
+  .navbar-nav {
+    float: none !important;
+    margin: 7px 0;
+  }
+
+  .navbar-nav > li {
+    float: none;
+  }
+
+  ul.nav li a {
+    line-height: 1.4;
+    padding: 12px 16px;
+    font-size: @nav-link-size-collapsed !important;
+  }
+
+  .navbar-brand .display-2 {
+    font-size: @nav-brand-size-collapsed !important;
+  }
+}
+
 @media all and (max-width: 991px) {
   .content {
     padding-top: 120px;
@@ -390,42 +503,12 @@ ul.nav li.work-with-us.active a .nav-cta {
     padding-right: 18px;
   }
 
-  .navbar-default {
-    height: auto;
-    min-height: 64px;
-  }
-
   .navbar-brand {
-    display: flex;
-    align-items: center;
-    height: 56px;
-    padding: 0;
-    font-size: 1.08em !important;
-    line-height: 1;
+    font-size: @nav-brand-size-mobile !important;
 
     .display-2 {
-      display: block;
-      line-height: 1.05;
+      font-size: @nav-brand-size-mobile !important;
     }
-  }
-
-  .navbar-header {
-    margin-left: 0 !important;
-    padding: 8px 0 8px 62px;
-    line-height: 1;
-    min-height: 72px;
-
-    img {
-      height: 56px;
-      margin-left: -62px;
-      top: 50% !important;
-      transform: translateY(-50%);
-    }
-  }
-
-  .navbar-toggle {
-    margin-top: 14px;
-    margin-right: 10px;
   }
 
   .navbar-collapse {
@@ -441,6 +524,7 @@ ul.nav li.work-with-us.active a .nav-cta {
   ul.nav li a {
     padding: 12px 16px;
     line-height: 1.4;
+    font-size: @nav-link-size-mobile !important;
   }
 
   ul.nav li.work-with-us a .nav-cta {
