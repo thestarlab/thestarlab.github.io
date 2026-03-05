@@ -4,27 +4,25 @@ title: Work With Us
 nav: work-with-us
 ---
 
-STAR Lab partners with industry and government teams to move geospatial ideas
+STARlab partners with industry and government teams to move geospatial ideas
 from concept to operational solutions. We support both short-term pilot work
-and longer collaborative research programs. Our team brings multiple years of
-industry software experience together with academic geospatial research
-expertise.
+and longer collaborative research programs. Our team brings decades of industry experience together with academic research expertise.
 
 # How We Can Help
 
 ## Geospatial expertise and experience
 
-Our team offers strong technical depth and applied delivery experience in:
+We offer strong technical depth and applied delivery experience in:
 
-- Geospatial data science, spatial statistics, and spatiotemporal modeling
+- Geospatial data science, spatial statistics/machine learning, and spatiotemporal modeling
 - GeoAI for remote sensing, environmental monitoring, and risk analysis
-- Data-intensive geospatial workflows for research and operational settings
+- Data-intensive or computation-intensive geospatial workflows for research and operational settings
 
 ## Open-source geospatial capabilities
 
 We provide open-source geospatial solutions for:
 
-- Spatial analysis, mapping, and reproducible geospatial pipelines
+- Geospatial analysis, mapping, and reproducible geospatial pipelines
 - Custom tools and decision-support applications built on open technologies
 - Rapid development of practical prototypes that can scale into production
 
