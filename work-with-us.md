@@ -12,9 +12,9 @@ and longer collaborative research programs. Our team brings decades of industry 
 
 ## Geospatial expertise and experience
 
-We offer cutting edge GeoAI, strong technical depth and applied delivery experience in:
+We offer cutting-edge technologies, strong technical depth and applied delivery experience in:
 
-- Geospatial data science, GeoAI, and spatiotemporal modeling
+- Geospatial data science, machine learning, and spatiotemporal modeling
 - GeoAI for natural resources, environmental monitoring, and emergency
   management
 - Data-intensive or computation-intensive geospatial workflows for research and operational settings
