@@ -1,5 +1,4 @@
 @import "colors.less";
-
 @import url(https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700,700italic|PT+Serif:400,400italic,700,700italic&display=swap);
 
 // Color palette
@@ -14,10 +13,6 @@
 @high: @gold;
 @medium: lighten(@gold, 15%);
 @low: lighten(@gold, 40%);
-
-.d3{
-  @import "d3.less";
-}
 
 code, pre {
   font-family: "PT Mono";
@@ -85,7 +80,7 @@ body {
 @media all and (max-width: 500px) { /* screen size until 500px */
     body {
         //font-size: 1.0em; /* 1.0x default size */
-        font-size: 10pt; 
+        font-size: 10pt;
         }
     }
 .content{
@@ -154,15 +149,15 @@ font-size:1.1em;
   border: none;
   height: @bheight;
   //font-size: 18px;
-  font-size: 1.1em;
+  font-size: 1.16em;
 }
 
 .navbar-brand {
-  font-size: 1.1em !important;
+  font-size: 1.16em !important;
   }
 
 .navbar-header {
-  font-size: 1.1em !important;
+  font-size: 1.16em !important;
   a {
     //color: white !important;
     color: @gold !important;
@@ -295,6 +290,38 @@ ul.nav {
     }
   }
 }
+
+ul.nav li.work-with-us a .nav-cta {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 999px;
+  line-height: 1.2;
+  color: inherit;
+  box-shadow: inset 0 0 0 1px fadeout(@gold, 10%);
+  background-color: fadeout(@gold, 92%);
+}
+
+ul.nav li.work-with-us a:hover .nav-cta {
+  background-color: fadeout(@gold, 82%);
+}
+
+.scrolled ul.nav li.work-with-us a .nav-cta {
+  box-shadow: inset 0 0 0 1px fadeout(@cu-darkgrey, 15%);
+  background-color: fadeout(@cu-darkgrey, 88%);
+}
+
+.scrolled ul.nav li.work-with-us a:hover .nav-cta {
+  background-color: fadeout(@cu-darkgrey, 78%);
+}
+
+ul.nav li.work-with-us.active a .nav-cta {
+  box-shadow: inset 0 0 0 2px @gold;
+}
+
+.scrolled ul.nav li.work-with-us.active a .nav-cta {
+  box-shadow: inset 0 0 0 2px @cu-darkgrey;
+}
+
 .img-responsive{
   max-width: 100%;
   height: auto;
@@ -360,6 +387,7 @@ ul.nav {
     height: auto;
     padding-top: 8px;
     padding-bottom: 8px;
+    font-size: 1.08em !important;
   }
 
   .navbar-header {
@@ -392,6 +420,11 @@ ul.nav {
   ul.nav li a {
     padding: 12px 16px;
     line-height: 1.4;
+  }
+
+  ul.nav li.work-with-us a .nav-cta {
+    padding: 4px 9px;
+    border-radius: 10px;
   }
 
   .person-photo {

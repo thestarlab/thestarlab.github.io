@@ -4,7 +4,7 @@ title: Opportunities
 nav: opportunities
 ---
 
-STAR lab offers a research environment where you will be able to pursue
+STAR Lab offers a research environment where you will be able to pursue
 your scientific interests and gain practical experiences and new skills.
 Please see the following open opportunities in our lab, and if interested,
 send inquiry emails to Guofeng Cao

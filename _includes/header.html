@@ -3,37 +3,13 @@
 <meta name="description" content="{{ page.description | default: site.subtitle | escape }}" />
 <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-<link rel="preconnect" href="https://ajax.googleapis.com" />
 <link rel="preconnect" href="https://maxcdn.bootstrapcdn.com" />
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
-<link rel="preconnect" href="https://d3js.org" />
-
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
 
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" defer></script>
-
-<!-- Slick, image carousel -->
-<!--
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
--->
-<!-- Add the new slick-theme.css if you want the default styling -->
-<!--
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css"/>
-<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script>
--->
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" defer></script>
-
-<!-- d3.js -->
-<script src="https://d3js.org/d3.v3.min.js" defer></script>
-
-<!-- LESS, because then I can push without compiling -->
+<!-- LESS stylesheet -->
 <link rel="stylesheet/less" type="text/css" href="{{ '/styles/main.less' | relative_url }}" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/4.2.0/less.min.js"></script>
 

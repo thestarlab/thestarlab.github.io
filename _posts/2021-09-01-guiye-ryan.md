@@ -5,7 +5,7 @@ author: Guofeng
 id: guiye, ryan
 ---
 
-STAR lab welcomes Guiye Li and Ryan Erickson in Fall 2021.
+STAR Lab welcomes Guiye Li and Ryan Erickson in Fall 2021.
 
 Guiye Li joined the lab after taking one year of online class due to COVID-19 travel restrictions. He will start to pursue his PhD study at CU Boulder.
 

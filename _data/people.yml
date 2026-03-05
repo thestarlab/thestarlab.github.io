@@ -4,7 +4,7 @@
   id: guofeng
   page: yes
   mugshot: guofeng.jpg 
-  blurb: is a GIS professor at the [Department of Geography at CU Boulder](https://www.colorado.edu/geography/), also the director of STAR lab. His research primarily focuses on developing statistical methods and high performance computing methods to characterize and model spatial and spatiotemporal patterns. He was broadly trained in earth sciences, computer science, applied statistics, geographic information science and remote sensing. He also has several years of experiences in software industry before moving back to academia. 
+  blurb: is a GIS professor at the [Department of Geography at CU Boulder](https://www.colorado.edu/geography/), also the director of STAR Lab. His research primarily focuses on developing statistical methods and high performance computing methods to characterize and model spatial and spatiotemporal patterns. He was broadly trained in earth sciences, computer science, applied statistics, geographic information science and remote sensing. He also has several years of experiences in software industry before moving back to academia. 
 
 
 - name: Di Wu
@@ -12,49 +12,56 @@
   status: current
   id: di
   mugshot: di.jpg
-  blurb: is a postdoctoral researcher at STAR lab. She finished her PhD in Geography from Southern Illinois University in 2024. Her expertise is deep learning and remote sensing. She is developing new machine learning methods to understand remote sensing images for environmental and climate applications.
+  blurb: is a postdoctoral researcher at STAR Lab. She finished her PhD in Geography from Southern Illinois University in 2024. Her expertise is deep learning and remote sensing. She is developing new machine learning methods to understand remote sensing images for environmental and climate applications.
 
 - name: Andong Ma
   role: postdoc
   status: alumni
   id: andong
   mugshot: andong.png
-  blurb: was a postdoctoral researcher at STAR lab. He finished his PhD in Geography from Texas A&M University in 2021. His expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications (e.g., global changes and natural hazards). Please see [his page](https://www.andongma.me/) for more details. Currently a visiting assistant professor at Texas A&M University.
+  blurb: was a postdoctoral researcher at STAR Lab. He finished his PhD in Geography from Texas A&M University in 2021. His expertise is deep learning and remote sensing. He is developing new machine learning methods to understand remote sensing images for environmental and climate applications (e.g., global changes and natural hazards). Please see [his page](https://www.andongma.me/) for more details. Currently a visiting assistant professor at Texas A&M University.
 
 - name: Yangchengsi Zhang
   role: student
   status: current
   id: yangchengsi
   mugshot: yangchengsizhang.jpg
-  blurb: is a PhD student at STAR lab. She joined the lab in Fall 2024 and her topic is to understand land surface changes with time series of satellite images. 
+  blurb: is a PhD student at STAR Lab. She joined the lab in Fall 2024 and her topic is to understand land surface changes with time series of satellite images. 
 
 - name: Zhou Yu 
   role: student
   status: current
   id: zhouyu
   mugshot: zhou.jpg
-  blurb: is a PhD student at STAR lab. He joined the lab in Fall 2023 from Cornell University. His topic is to develop new statistical and deep learning methods to model and understand spatiotemporal extremes in climate sciences.
+  blurb: is a PhD student at STAR Lab. He joined the lab in Fall 2023 from Cornell University. His topic is to develop new statistical and deep learning methods to model and understand spatiotemporal extremes in climate sciences.
 
 - name: Guiye Li
   role: student
   status: current
   id: guiye
   mugshot: guiye.png
-  blurb: is a PhD student at STAR lab. His topic is to develop new deep learning-based methods to model and characterize the uncertainty of geospatial data. 
+  blurb: is a PhD student at STAR Lab. His topic is to develop new deep learning-based methods to model and characterize the uncertainty of geospatial data. 
+
+- name: Ryan Theurer
+  role: student
+  status: current
+  id: ryanT
+  mugshot: ryanT.png
+  blurb: is a Master student at STAR Lab. He finished his undergraduate studies at the University of North Carolina at Chapel Hill. He is interested in using remote sensing and GeoAI to map and understand snow water equivalent and related snow hydrological problems. 
 
 - name: Ryan Erickson
   role: student
-  status: current
+  status: alumni
   id: ryan
   mugshot: ryan.png
-  blurb: is a Master student at STAR lab. He finished his undergraduate studies at the University of California, Santa Barbara (double majoring in Geography and Physics). He is interested in understanding and characterizing the socioeconomic and health impacts of natural hazards with geospatial methods.
+  blurb: was a Master student at STAR Lab. He finished his undergraduate studies at the University of California, Santa Barbara (double majoring in Geography and Physics). He is interested in understanding and characterizing the socioeconomic and health impacts of natural hazards with geospatial methods. Ryan defended his thesis in Fall 2025.
 
 - name: Jiacheng Zhou
   role: student
   status: current
   id: jiacheng
   mugshot: jiacheng.png
-  blurb: is a PhD student at STAR lab. He joined the lab in Fall 2022 from Boston University. His topic is GeoAI for environmental health and public health. 
+  blurb: is a PhD student at STAR Lab. He joined the lab in Fall 2022 from Boston University. His topic is GeoAI for environmental health and public health. 
 
 - name: Congliang Zhou
   role: student
@@ -82,7 +89,7 @@
   role: postdoc
   id: naizhuo
   mugshot: naizhuo.jpg
-  blurb: was a postdoctoral research associate at STAR lab. He finished his PhD in Geography from Texas State University in 2014. His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. Currently a professor at Northeastern University (of China).
+  blurb: was a postdoctoral research associate at STAR Lab. He finished his PhD in Geography from Texas State University in 2014. His expertise is using remote sensing imagery, particularly nighttime light imagery, to study the impact of human activity on urban and natural systems. Currently a professor at Northeastern University (of China).
 
 - name: Ying Liu 
   role: student
@@ -117,11 +124,11 @@
   status: alumni
   id: wei
   mugshot: tt.jpg
-  blurb: was a PhD student in the Department of Computer Science at Texas Tech. He worked in STAR lab as a graduate research assistant during 2015-2016. He helped develop high performance data mining methods for location-based social media data.
+  blurb: was a PhD student in the Department of Computer Science at Texas Tech. He worked in STAR Lab as a graduate research assistant during 2015-2016. He helped develop high performance data mining methods for location-based social media data.
 
 - name: Bo Zhong 
   role: visiting
   status: finished
   id: zhong
   mugshot: tt.jpg
-  blurb: is a research scientist at the [Institute of Remote Sensing and Digital Earth](http://english.ceode.cas.cn/), Chinese Academy of Science. He had visited STAR lab during October 2015 to March 2016.  
+  blurb: is a research scientist at the [Institute of Remote Sensing and Digital Earth](http://english.ceode.cas.cn/), Chinese Academy of Science. He had visited STAR Lab during October 2015 to March 2016.  
